@@ -45,15 +45,15 @@ title: IOS Apps
 
 ### Advertisement blocking
 
--   [AdGuard](https://adguard.com/en/welcome.html) - AdGuard is a free, open-source, browser-based, ad-blocking browser extension.
--   [NextDNS](https://nextdns.io) - NextDNS is a free DNS server that provides a free, fast, and reliable DNS service.
+-   [AdGuard](https://apps.apple.com/app/apple-store/id1047223162) - AdGuard is a free, open-source, browser-based, ad-blocking browser extension.
+-   [NextDNS](https://apps.apple.com/app/nextdns/id1463342498) - NextDNS is a free DNS server that provides a free, fast, and reliable DNS service.
 
 ### VPNs
 
 -   [Mullvad](https://apps.apple.com/app/mullvad-vpn/id1488466513) - Privacy oriented, fast and easy to use VPN.
 -   [NordVPN](https://apps.apple.com/app/id905953485) - _Paid_ VPN service.
 -   [ProtonVPN](https://apps.apple.com/app/protonvpn-fast-secure-vpn/id1437005085) - VPN service.
--   [WireGuard](https://www.wireguard.com/install/) - Simple yet fast and modern VPN that utilizes state-of-the-art cryptography.
+-   [WireGuard](https://apps.apple.com/app/wireguard/id1441195209) - Simple yet fast and modern VPN that utilizes state-of-the-art cryptography.
 
 ### Web Browsers
 
@@ -78,12 +78,12 @@ title: IOS Apps
 
 ### 2FA and TOTP
 
--   [Raivo OTP](https://apps.apple.com/app/raivo-otp/id1459042137) - A native, lightweight and secure one-time-password (OTP) solution for users.
+-   [Raivo OTP](https://apps.apple.com/app/raivo-otp/id1459042137) - A native, lightweight and secure OTP solution for users.
 -   [Tofu Authenticator](https://apps.apple.com/app/tofu-authenticator/id1082229305) - An easy-to-use, open-source two-factor authentication app designed specifically for iOS.
 
 ### Passwords Managers
 
--   [1Password](https://apps.apple.com/app/1password-password-manager/id568903335) - Cross-platform password manager.
+-   [1Password](https://apps.apple.com/app/1password-password-manager/id568903335) - _Paid Service_ Cross-platform password manager.
 -   [Bitwarden](https://apps.apple.com/app/bitwarden-password-manager/id1137397744) - Cross-platform password manager. (With paid subscription - can be used for 2FA too)
 
 ## ETC.
@@ -91,5 +91,6 @@ title: IOS Apps
 ### Shortcuts
 
 -   [Matthew Cassinelli's - Shortcuts Library](https://www.matthewcassinelli.com/sirishortcuts/shortcuts-library/) - A collection of shortcuts for iOS and MacOS.
--   [RoutineHub](https://routinehub.co) - RoutineHub is a growing community around automating Apple iPhones and iPads with Siri Shortcuts.
--   [r/ Shortcuts](https://www.reddit.com/r/shortcuts) - Subreddit dedicated to sharing shortcuts and other useful information.
+-   [RoutineHub](https://routinehub.co/) - RoutineHub is a growing community around automating Apple iPhones and iPads with Siri Shortcuts.
+-   [r/ Shortcuts](https://www.reddit.com/r/shortcuts/) - Subreddit dedicated to sharing shortcuts and other useful information.
+

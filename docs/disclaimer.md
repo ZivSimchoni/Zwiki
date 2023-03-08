@@ -26,7 +26,7 @@ For the purposes of this Disclaimer:
 -   **Company** (referred to as either "the Company", "We", "Us" or "Our" in this Disclaimer) refers to Ziv&#39;s Wiki.
 -   **Service** refers to the Website.
 -   **You** means the individual accessing the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
--   **Website** refers to Ziv&#39;s Wiki, accessible from [https://zivsimchoni.github.io/Zwiki/](https://zivsimchoni.github.io/Zwiki/)
+-   **Website** refers to Ziv&#39;s Wiki, accessible from [https://zivsimchoni.github.io/Zwiki](https://zivsimchoni.github.io/Zwiki/)
 
 # Disclaimer
 
@@ -89,5 +89,3 @@ The Company will not be liable to You or anyone else for any decision made or ac
 If you have any questions about this Disclaimer, You can contact Us:
 
 -   By email: zivsimchoni@gmail.com
-
----

@@ -130,7 +130,7 @@ title: Android Apps
 -   [Apk Mirror](https://www.apkmirror.com) - Most known clean APK site.
 -   [Aurara Store](https://auroraoss.com/download/) - Unofficial FOSS client of Google Play Store.
 -   [AuraraDroid](https://gitlab.com/AuroraOSS/auroradroid) - Fork of the F-Droid client with external repos ready to sync.
--   [F-Droid](https://f-droid.org) - Wide catalogue of FOSS (Free and Open Source Software) android applications.
+-   [F-Droid](https://f-droid.org) - Wide catalogue of FOSS android applications.
     -   [F-Droid Known Repos](https://forum.f-droid.org/t/known-repositories/721)
     -   [Unofficial (and incomplete) list of F-Droid repositories - IzzyOnDroid](https://android.izzysoft.de/articles/named/list-of-fdroid-repos)
 
@@ -147,5 +147,3 @@ title: Android Apps
 -   [Awesome Android Apps - LinuxCafe](https://github.com/LinuxCafeFederation/awesome-android)
 -   [Android Security Awesome](https://github.com/ashishb/android-security-awesome) - A collection of android security related resources and tools.
 -   [Guardian Project](https://guardianproject.info/) - Guardian Project creates easy to use secure apps, open-source software libraries, and customized solutions that can be used around the world.
-
-*[IMHO]: In My Humble/Honest Opinion

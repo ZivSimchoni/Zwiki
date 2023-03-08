@@ -29,12 +29,11 @@ Make sure your list is useful before submitting. That implies it having enough c
 Open an issue with the name of the program as the title.<br>
 :exclamation: If any of the links are dead, please open and issue and add any up-to-date links that you can provide.<br>
 
-### **Comment** Contribution Method
-
 <!-- TODO: remove or add comments -->
-
-If you have a suggestion, please make a comment in the relevant page/post.<br>
-:exclamation: Please keep the comment's text minimal yet with useful information.<br>
+<!-- https://squidfunk.github.io/mkdocs-material/setup/adding-a-comment-system/ -->
+<!-- ### **Comment** Contribution Method -->
+<!-- If you have a suggestion, please make a comment in the relevant page/post.<br> -->
+<!-- :exclamation: Please keep the comment's text minimal yet with useful information.<br> -->
 
 ## **Thank you for your suggestions and help!** { data-search-exclude }
 
