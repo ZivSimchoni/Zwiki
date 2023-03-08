@@ -1,0 +1,162 @@
+# Project information
+site_name: Ziv's Wiki
+site_url: https://ZivSimchoni.github.io/zwiki/
+site_author: Ziv Simchoni
+site_description: >-
+  A curated list of sources and links, some programming related some specific OS or platform related.
+  
+# Repository
+# shows a repo link in the top corner
+# repo_name: ZivSimchoni/zwiki
+# repo_url: https://github.com/ZivSimchoni/zwiki
+
+# Copyright
+copyright: >
+  Theme Copyright &copy; 2016 - 2023 Martin Donath &copy;<br>
+  <a href="#__consent">Change cookie settings</a>
+
+# Configuration
+theme:
+  name: material
+  custom_dir: .overrides
+  features:
+     - announce.dismiss
+     - content.code.annotate
+    # - content.tabs.link
+     - content.tooltips
+    # - header.autohide
+     - navigation.expand
+     - navigation.indexes
+     - navigation.instant
+     - navigation.sections
+     - navigation.tabs
+    # - navigation.footer
+    # - navigation.tabs.sticky
+     - navigation.top
+     - navigation.tracking
+    # - search.highlight
+     - search.share
+     - search.suggest
+     - toc.follow
+    # - toc.integrate
+
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: light blue
+      accent: light blue
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Palette toggle for dark mode     
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-2
+        name: Switch to light mode
+  font:
+    text: Ubuntu
+    code: Ubuntu Mono
+  logo: assets/images/logo.png
+  favicon: assets/favicon.svg
+
+# Customization
+extra:
+  # consent:
+  #   title: Cookie consent
+  #   description: >- 
+  #     I use cookies to recognize your repeated visits and preferences, as well
+  #     as to measure the effectiveness of my wiki and whether users
+  #     find what they're searching for.
+  #     With your consent, you're helping me to make this wiki better. <br>
+  #     With that said, feel free to click reject. (:
+  #   actions:
+  #     - accept
+  #     - reject
+  #     - manage    
+  #   cookies:
+  #     analytics:
+  #       name: Google Analytics
+  #       checked: false
+  # analytics:
+  #   provider: google
+  #   property: !ENV GOOGLE_ANALYTICS_KEY
+
+# Socials at Footer
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/ZivSimchoni/
+      name: Github profile
+    - icon: fontawesome/brands/telegram
+      link: https://t.me/+MjPtAIiNncY1YzFk
+      name: Telegram channel
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/ZivSimchoni/
+      name: '@ZivSimchoni'
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/ZivSimchoni/
+      name: Ziv on LinkedIn
+    - icon: fontawesome/solid/envelope
+      link: mailto:zivsimchoni@gmail.com
+      name: Contact me via Email
+
+#Plugins
+plugins:
+  - search:
+      lang: en
+      separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
+  - exclude-search:
+       exclude:
+        - about.md
+        - index.md
+        - disclaimer.md
+
+
+# Extensions
+markdown_extensions:
+    # Python Markdown
+    - abbr
+    - admonition
+    - attr_list
+    - def_list
+    - footnotes
+    - md_in_html
+    - tables
+    - toc:
+        permalink: true
+    # Python Markdown Extensions
+    # - pymdownx.arithmatex:
+    #       generic: true
+    - pymdownx.betterem:
+          smart_enable: all
+    - pymdownx.caret
+    - pymdownx.mark
+    - pymdownx.tilde
+    - pymdownx.details
+    - pymdownx.critic
+    - pymdownx.inlinehilite
+    - pymdownx.smartsymbols
+    - pymdownx.keys
+    #- pymdownx.snippets
+    - pymdownx.emoji:
+        emoji_index: !!python/name:materialx.emoji.twemoji
+        emoji_generator: !!python/name:materialx.emoji.to_svg
+    - pymdownx.highlight:
+       use_pygments: true
+       auto_title: true
+    - pymdownx.magiclink:
+        repo_url_shorthand: true
+        user: ZivSimchoni
+        repo: zwiki
+    - pymdownx.superfences:
+        custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+    - pymdownx.tabbed:
+          alternate_style: true
+    - pymdownx.tasklist:
+          custom_checkbox: true
