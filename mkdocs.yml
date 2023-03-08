@@ -12,8 +12,8 @@ site_description: >-
 
 # Copyright
 copyright: >
-  Theme Copyright &copy; 2016 - 2023 Martin Donath &copy;<br>
-  <a href="#__consent">Change cookie settings</a>
+  Theme Copyright &copy; 2016 - 2023 Martin Donath &copy;
+# <a href="#__consent">Change cookie settings</a>
 
 # Configuration
 theme:
