@@ -47,9 +47,7 @@ title: Android Apps
 
 ### Advertisement blocking
 
-<!-- TODO: add hosts list -->
-
-!!! info "You can use these [**Hosts Lists**](/Z-Guides/resources/2022/02/23/Links.html#Hosts-Lists) on your Android phone as well."
+!!! info "You can use these [**Hosts Lists**](./Links.md#hosts-lists) on your Android phone as well."
 
 -   [AdAway](https://adaway.org) - Ad Blocker using VPN or Hosts file. Root Required for best results.
 -   [AdGuard](https://adguard.com/en/welcome.html) - Ad Blocker using VPN. No root required.
@@ -95,8 +93,8 @@ title: Android Apps
 -   [PowerAMP](https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer) - Music player for Android.
 
 ### Online Streaming
-<!-- TODO: add RVX ~ ReVanced -->
--   ~~[YouTube Vanced](https://vancedapp.com) - Ad-Free YouTube & YT Music.~~
+-   ~~[YouTube Vanced](https://vancedapp.com)~~ [ReVanced](https://github.com/revanced) - Ad-Free YouTube & YT Music. [Telegram](https://t.me/app_revanced), [Discord](https://discord.com/invite/rF2YcEjcrT)
+    -   [RVX Lite - Telegram](https://t.me/rvx_lite)
 -   [NewPipe](https://newpipe.net) - Free and open source YouTube client for Android.
 
 ## Passwords And Security

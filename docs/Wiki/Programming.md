@@ -51,6 +51,8 @@ title: Programming
     -   [W3Schools Kotlin Tutorial](https://www.w3schools.com/kotlin/index.php) - Kotlin Tutorial.
 -   [Python](https://www.python.org) - Python is an interpreted high-level programming language for general-purpose programming.
     -   [Automate The Boring Stuff](https://automatetheboringstuff.com) - For complete beginners to programming.
+    -   [FreeCodeCamp Youtube Tutorial](https://www.youtube.com/watch?v=rfscVS0vtbw) - Full introduction into all of the core concepts in python.
+    <!-- TODO: add CampusIL -->
     -   [Python Tutorial](https://docs.python.org/3/tutorial) - Official tutorial.
     -   [Python Discord](https://pythondiscord.com) - Python focused Discord community.
     -   [Real Python](https://realpython.com) - Python Tutorials, guides and tricks.
