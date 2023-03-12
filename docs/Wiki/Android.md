@@ -1,6 +1,4 @@
 ---
-hide:
-    - footer
 title: Android Apps
 ---
 
