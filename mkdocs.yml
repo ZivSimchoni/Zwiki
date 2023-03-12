@@ -114,6 +114,7 @@ plugins:
         - about.md
         - index.md
         - disclaimer.md
+        - Contributions.md
 
 
 # Extensions
