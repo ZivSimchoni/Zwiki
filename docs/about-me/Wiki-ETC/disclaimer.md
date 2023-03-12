@@ -2,7 +2,6 @@
 hide:
     - toc
     - footer
-    - navigation
 search:
     enabled: false
 title: Disclaimer

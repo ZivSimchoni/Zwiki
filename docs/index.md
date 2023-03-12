@@ -20,7 +20,7 @@ title: Home
 
 > _This is a list of guides and sources that I've collected/created.<br>
 > I'm not a professional - just a man who likes to learn and share knowledge.<br>
-> Please read the [disclaimer](./disclaimer.md).<br>
+> Please read the [disclaimer](./about-me/Wiki-ETC/disclaimer.md).<br>
 > There are probably some errors or typos and If you have any suggestions, please let me know!_
 
-[Contribution Guidelines](./Contributions.md){ .md-button .md-button--secondary }
+[Contribution Guidelines](./about-me/Wiki-ETC/Contributions.md){ .md-button .md-button--secondary }
