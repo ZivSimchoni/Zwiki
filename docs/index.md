@@ -8,7 +8,6 @@ title: Home
 ---
 
 <center><h1>:material-button-cursor: Heres quick navigation buttons for your convince.</h1></center>
-<!-- <h1 style="text-align: center;">:material-button-cursor: Heres quick navigation buttons for your convince.</h1> -->
 
 <style>
 .container { 
@@ -72,5 +71,4 @@ title: Home
 > _This is a list of guides and sources that I've collected/created.<br>
 > I'm not a professional - just a man who likes to learn and share knowledge.<br>
 > Please read the [disclaimer](./about-me/Wiki-ETC/disclaimer.md).<br>
-> There are probably some errors or typos and If you have any suggestions, please let me know!<br>
-> [Contribution Guidelines](./about-me/Wiki-ETC/Contributions.md)_
+> There are probably some errors or typos and If you have any suggestions, please let me know! - [Contribution Guidelines](./about-me/Wiki-ETC/Contributions.md)_
