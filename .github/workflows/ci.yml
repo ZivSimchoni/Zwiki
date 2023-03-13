@@ -11,6 +11,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
       - uses: actions/setup-python@v4
         with:
           python-version: 3.x
@@ -20,4 +22,6 @@ jobs:
           path: .cache
       - run: pip install mkdocs-material 
       - run: pip install mkdocs-exclude-search
+      - run: pip3 install mkdocs-git-revision-date-localized-plugin
+      - run: pip install mkdocs-glightbox
       - run: mkdocs gh-deploy --force

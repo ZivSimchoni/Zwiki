@@ -9,8 +9,6 @@ title: Disclaimer
 
 # Disclaimer
 
-Last updated: March 08, 2023
-
 # Interpretation and Definitions
 
 ## Interpretation

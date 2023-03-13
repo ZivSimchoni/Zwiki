@@ -58,7 +58,7 @@ theme:
         icon: material/brightness-2
         name: Switch to light mode
   font:
-    text: Tahoma #Ubuntu
+    text: Helvetica  #Tahoma #Ubuntu
     code: Courier New #Ubuntu Mono
   logo: assets/images/logo.png
   favicon: assets/favicon.svg
@@ -115,7 +115,29 @@ plugins:
         - index.md
         - disclaimer.md
         - Contributions.md
-
+  - git-revision-date-localized:
+        type: iso_date
+        enable_creation_date: false
+        fallback_to_build_date: false
+        exclude:
+          - index.md
+          - about-me/about.md
+          - about-me/projects.md
+        enabled: true
+        strict: true
+  - glightbox:
+       touchNavigation: true
+       loop: false
+       effect: zoom
+       slide_effect: slide
+       width: 90%
+       height: auto
+       zoomable: true
+       draggable: true
+       skip_classes:
+         - skip-lightbox # or {.off-glb}
+       auto_caption: false
+       caption_position: bottom
 
 # Extensions
 markdown_extensions:

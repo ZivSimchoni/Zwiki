@@ -17,7 +17,7 @@ An IP address is given to each device on the Internet, and that address is neces
 
 In order to understand the process behind the DNS resolution, it’s important to learn about the different hardware components a DNS query must pass between. For the web browser, the DNS lookup occurs "behind the scenes" and requires no interaction from the user’s computer apart from the initial request.<br>
 
-![How DNS works - the 10 steps in a DNS query](https://www.cloudflare.com/img/learning/dns/what-is-dns/dns-record-request-sequence-3.png "Credit: https://www.cloudflare.com/en-ca/learning/dns/what-is-dns/")
+![How DNS works - the 10 steps in a DNS query](https://www.cloudflare.com/img/learning/dns/what-is-dns/dns-record-request-sequence-3.png "Credit: https://www.cloudflare.com/en-ca/learning/dns/what-is-dns/"){data-gallery="dns"}
 
 ### Authoritative DNS server
 
@@ -46,7 +46,7 @@ Once the 8 steps of the DNS lookup have returned the IP address for example.com,
 9. The browser makes a [HTTP](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol) request to the IP address.
 10. The server at that IP returns the webpage to be rendered in the browser (step 10).
 
-![DNS query diagram](https://www.cloudflare.com/img/learning/dns/what-is-dns/dns-lookup-diagram.png "Credit: https://www.cloudflare.com/en-ca/learning/dns/what-is-dns/")
+![DNS query diagram](https://www.cloudflare.com/img/learning/dns/what-is-dns/dns-lookup-diagram.png "Credit: https://www.cloudflare.com/en-ca/learning/dns/what-is-dns/"){data-gallery="dns"}
 
 ## What is a DNS resolver?
 
@@ -56,7 +56,7 @@ Note: A typical uncached DNS lookup will involve both recursive and iterative qu
 
 It's important to differentiate between a [recursive DNS](/learning/dns/what-is-recursive-dns/) query and a recursive DNS resolver. The query refers to the request made to a DNS resolver requiring the resolution of the query. A DNS recursive resolver is the computer that accepts a recursive query and processes the response by making the necessary requests.<br>
 
-![DNS query diagram](https://www.cloudflare.com/img/learning/dns/what-is-dns/dns-recursive-query.png "Credit: https://www.cloudflare.com/en-ca/learning/dns/what-is-dns/")
+![DNS query diagram](https://www.cloudflare.com/img/learning/dns/what-is-dns/dns-recursive-query.png "Credit: https://www.cloudflare.com/en-ca/learning/dns/what-is-dns/"){data-gallery="dns"}
 
 ## What are the types of DNS queries?
 
@@ -126,17 +126,17 @@ The recursive resolver also has additional functionality depending on the types 
 
 ??? info "Click me to view screenshots for the steps above"
     <br>
-    ![](../assets/images/DNS/Win1.png)
+    ![Windows Step 1](../assets/images/DNS/Win1.png){data-gallery="windows"}
     <br>
-    ![](../assets/images/DNS/Win2.png)
+    ![Windows Step 2](../assets/images/DNS/Win2.png){data-gallery="windows"}
     <br>
-    ![](../assets/images/DNS/Win3.png)
+    ![Windows Step 3](../assets/images/DNS/Win3.png){data-gallery="windows"}
     <br>
-    ![](../assets/images/DNS/Win4.png)
+    ![Windows Step 4](../assets/images/DNS/Win4.png){data-gallery="windows"}
     <br>
-    ![](../assets/images/DNS/Win5.png)
+    ![Windows Step 5](../assets/images/DNS/Win5.png){data-gallery="windows"}
     <br>
-    ![](../assets/images/DNS/Win6.png)
+    ![Windows Step 6](../assets/images/DNS/Win6.png){data-gallery="windows"}
     <br>
 
 **_Alternative Way:_**
@@ -170,13 +170,13 @@ Change DNS using the **terminal**, example [Here](https://www.linuxfordevices.co
 
 ??? info "Click me to view Linux screenshots"
     <br>
-    ![](../assets/images/DNS/linux1.png)
+    ![Linux Step 1](../assets/images/DNS/linux1.png){data-gallery="linux"}
     <br>
-    ![](../assets/images/DNS/linux2.png)
+    ![Linux Step 2](../assets/images/DNS/linux2.png){data-gallery="linux"}
     <br>
-    ![](../assets/images/DNS/linux3.png)
+    ![Linux Step 3](../assets/images/DNS/linux3.png){data-gallery="linux"}
     <br>
-    ![](../assets/images/DNS/linux4.png)
+    ![Linux Step 4](../assets/images/DNS/linux4.png){data-gallery="linux"}
     <br>
 
 [^1]: Thanks for CloudFlare for their post, for further information and more details check their blog: [What is DNS? | How DNS works](https://www.cloudflare.com/en-ca/learning/dns/what-is-dns/)
