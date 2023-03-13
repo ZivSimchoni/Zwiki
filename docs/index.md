@@ -3,24 +3,49 @@ hide:
     - toc
     - navigation
     - footer
+glightbox: false
 title: Home
 ---
 
 :material-button-cursor: Heres quick navigation buttons for your convince.
 
-| [:fontawesome-brands-android: **Android**](./Wiki/Android.md){ .md-button .md-button--primary }                                                     |                      [:fontawesome-brands-app-store-ios: **IOS**](./Wiki/IOS.md){ .md-button .md-button--primary }                      |      [:fontawesome-brands-linux: **Linux**](./Wiki/Linux.md){ .md-button .md-button--primary }      | [:fontawesome-brands-windows: **Windows**](./Wiki/Windows.md){ .md-button .md-button--primary } |
-| --------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------: |
-| [:fontawesome-solid-download: **Programs**](./Wiki/Programs.md){ .md-button .md-button--primary }                                                   |                     [:fontawesome-solid-link: **Useful Links**](./Wiki/Links.md){ .md-button .md-button--primary }                      | [:fontawesome-solid-code: **Programming**](./Wiki/Programming.md){ .md-button .md-button--primary } |    [:fontawesome-brands-github: **GitHub**](./Wiki/GitHub.md){ .md-button .md-button--primary } |
-| [:fontawesome-brands-microsoft: **Windows Shortcuts**](./Wiki/keyboard-shortcuts/Windows-Keyboard-Shortcuts.md){ .md-button .md-button--secondary } | [:fontawesome-brands-apple: **Mac Shortcuts**](./Wiki/keyboard-shortcuts/Mac-Keyboard-Shortcuts.md){ .md-button .md-button--secondary } |                                                                                                     |                                                                                                 |
+<style>
+table {
+    display: block;
+    overflow-x: auto;
+    overflow-y: auto;
+    text-align: center;
+    border-spacing: 4px;
+}
+th, td, tr {
+    padding: 4px;
+}
+</style>
+<table class="table" markdown>
+<tbody markdown>
+<tr markdown>
+<td markdown> [:fontawesome-brands-android: **Android**](./Wiki/Android.md){ .md-button .md-button--primary } </td>
+<td markdown> [:fontawesome-brands-app-store-ios: **IOS**](./Wiki/IOS.md){ .md-button .md-button--primary } </td>
+</tr>
+<tr markdown>
+<td markdown> [:fontawesome-brands-linux: **Linux**](./Wiki/Linux.md){ .md-button .md-button--primary } </td>
+<td markdown> [:fontawesome-brands-windows: **Windows**](./Wiki/Windows.md){ .md-button .md-button--primary } </td>
+</tr>
+<tr markdown>
+<td markdown> [:fontawesome-solid-download: **Programs**](./Wiki/Programs.md){ .md-button .md-button--primary } </td>
+<td markdown> [:fontawesome-solid-link: **Useful Links**](./Wiki/Links.md){ .md-button .md-button--primary } </td>
+</tr>
+<tr markdown>
+<td markdown> [:fontawesome-solid-code: **Programming**](./Wiki/Programming.md){ .md-button .md-button--primary } </td>
+<td markdown> [:fontawesome-brands-github: **GitHub**](./Wiki/GitHub.md){ .md-button .md-button--primary } </td>
+</tr>
+<tr markdown>
+<td markdown> [:fontawesome-brands-microsoft: **Windows Shortcuts**](./Wiki/keyboard-shortcuts/Windows-Keyboard-Shortcuts.md){ .md-button .md-button--secondary } </td>
+<td markdown> [:fontawesome-brands-apple: **Mac Shortcuts**](./Wiki/keyboard-shortcuts/Mac-Keyboard-Shortcuts.md){ .md-button .md-button--secondary } </td>
+</tr>
+</tbody>
+</table>
 
-<!-- [:fontawesome-brands-android: **Android**](./Wiki/Android.md){ .md-button .md-button--primary } | [:fontawesome-brands-app-store-ios: **IOS Apps**](./Wiki/IOS.md){ .md-button .md-button--primary } | [:fontawesome-brands-linux: **Linux**](./Wiki/Linux.md){ .md-button .md-button--primary } | [:fontawesome-brands-windows: **Windows Related**](./Wiki/Windows.md){ .md-button .md-button--primary } | [:fontawesome-solid-download: **Programs**](./Wiki/Programs.md){ .md-button .md-button--primary }
-
-[:fontawesome-brands-github: **GitHub Customizations**](./Wiki/GitHub.md){ .md-button .md-button--primary } | [:fontawesome-solid-link: **Useful Links**](./Wiki/Links.md){ .md-button .md-button--primary } | [:fontawesome-solid-code: **Programming Related**](./Wiki/Programming.md){ .md-button .md-button--primary }
-
-[:fontawesome-brands-microsoft: **Windows Keyboard Shortcuts**](./Wiki/keyboard-shortcuts/Windows-Keyboard-Shortcuts.md){ .md-button .md-button--secondary } | [:fontawesome-brands-apple: **Mac Keyboard Shortcuts**](./Wiki/keyboard-shortcuts/Mac-Keyboard-Shortcuts.md){ .md-button .md-button--secondary } -->
-
-<br>
-<br>
 <h6>Content page layout<br> Navigation | Content | TOC </h6>
 
 > _This is a list of guides and sources that I've collected/created.<br>
