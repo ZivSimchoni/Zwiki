@@ -2,6 +2,8 @@
 title: Linux
 ---
 
+# Linux
+
 !!! info ""
     For more in-depth information and more variety - visit a other sites such as [**Distro Watch Site**](https://distrowatch.com/).
 
