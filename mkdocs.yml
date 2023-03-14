@@ -111,8 +111,8 @@ plugins:
       separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
   - exclude-search:
        exclude:
-        - about.md
         - index.md
+        - about-me/about.md
         - disclaimer.md
         - Contributions.md
   - git-revision-date-localized:
