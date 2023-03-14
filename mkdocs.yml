@@ -4,11 +4,12 @@ site_url: https://github.com/ZivSimchoni/Zwiki
 site_author: Ziv Simchoni
 site_description: >-
   A collection of links and resources that covers programming-related stuff and specific operating systems and platforms, Mobile Apps and various resources.
-  
+
 # Repository
 # shows a repo link in the top corner
-# repo_name: ZivSimchoni/Zwiki
-# repo_url: https://github.com/ZivSimchoni/Zwiki
+repo_name: ZivSimchoni/Zwiki
+repo_url: https://github.com/ZivSimchoni/Zwiki
+edit_uri: blob/main/docs/
 
 # Copyright
 copyright: >
@@ -17,27 +18,33 @@ copyright: >
 
 # Configuration
 theme:
+  icon:
+    repo: fontawesome/brands/git-alt
+    edit: material/file-edit
+    view: material/file-eye
   name: material
   custom_dir: .overrides
   features:
-     - announce.dismiss
-     - content.code.annotate
+    - announce.dismiss
+    - content.code.annotate
+    - content.action.view
+    - content.action.edit
     # - content.tabs.link
-     - content.tooltips
+    - content.tooltips
     # - header.autohide
-     - navigation.expand
-     - navigation.indexes
-     - navigation.instant
-     - navigation.sections
-     - navigation.tabs
-     - navigation.footer
-     - navigation.tabs.sticky
+    - navigation.expand
+    - navigation.indexes
+    - navigation.instant
+    - navigation.sections
+    - navigation.tabs
+    - navigation.footer
+    - navigation.tabs.sticky
     # - navigation.top
-     - navigation.tracking
+    - navigation.tracking
     # - search.highlight
-     - search.share
-     - search.suggest
-     - toc.follow
+    - search.share
+    - search.suggest
+    - toc.follow
     # - toc.integrate
 
   palette:
@@ -49,7 +56,7 @@ theme:
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
-    # Palette toggle for dark mode     
+    # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: indigo
@@ -58,7 +65,7 @@ theme:
         icon: material/brightness-2
         name: Switch to light mode
   font:
-    text: Helvetica  #Tahoma #Ubuntu
+    text: Helvetica #Tahoma #Ubuntu
     code: Courier New #Ubuntu Mono
   logo: assets/images/logo.png
   favicon: assets/favicon.svg
@@ -67,7 +74,7 @@ theme:
 extra:
   # consent:
   #   title: Cookie consent
-  #   description: >- 
+  #   description: >-
   #     I use cookies to recognize your repeated visits and preferences, as well
   #     as to measure the effectiveness of my wiki and whether users
   #     find what they're searching for.
@@ -76,7 +83,7 @@ extra:
   #   actions:
   #     - accept
   #     - reject
-  #     - manage    
+  #     - manage
   #   cookies:
   #     analytics:
   #       name: Google Analytics
@@ -85,7 +92,7 @@ extra:
   #   provider: google
   #   property: !ENV GOOGLE_ANALYTICS_KEY
 
-# Socials at Footer
+  # Socials at Footer
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/ZivSimchoni/
@@ -95,7 +102,7 @@ extra:
       name: Telegram channel
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/ZivSimchoni/
-      name: '@ZivSimchoni'
+      name: "@ZivSimchoni"
     - icon: fontawesome/brands/linkedin
       link: https://linkedin.com/in/ZivSimchoni/
       name: Ziv on LinkedIn
@@ -110,79 +117,79 @@ plugins:
       lang: en
       separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
   - exclude-search:
-       exclude:
+      exclude:
         - index.md
         - about-me/about.md
-        - disclaimer.md
-        - Contributions.md
+        - about-me/Wiki-ETC/disclaimer.md
+        - about-me/Wiki-ETC/contributions.md
   - git-revision-date-localized:
-        type: iso_date
-        enable_creation_date: false
-        fallback_to_build_date: false
-        exclude:
-          - index.md
-          - about-me/about.md
-          - about-me/projects.md
-        enabled: true
-        strict: true
+      type: iso_date
+      enable_creation_date: false
+      fallback_to_build_date: true
+      exclude:
+        - index.md
+        - about-me/about.md
+        - about-me/projects.md
+      enabled: true
+      strict: true
   - glightbox:
-       touchNavigation: true
-       loop: false
-       effect: zoom
-       slide_effect: slide
-       width: 90%
-       height: auto
-       zoomable: true
-       draggable: true
-       skip_classes:
-         - skip-lightbox # or {.off-glb}
-       auto_caption: false
-       caption_position: bottom
+      touchNavigation: true
+      loop: false
+      effect: zoom
+      slide_effect: slide
+      width: 90%
+      height: auto
+      zoomable: true
+      draggable: true
+      skip_classes:
+        - skip-lightbox # or {.off-glb}
+      auto_caption: false
+      caption_position: bottom
 
 # Extensions
 markdown_extensions:
-    # Python Markdown
-    - abbr
-    - admonition
-    - attr_list
-    - def_list
-    - footnotes
-    - md_in_html
-    - tables
-    - toc:
-        permalink: true
-    # Python Markdown Extensions
-    - pymdownx.arithmatex:
-           generic: true
-    - pymdownx.betterem:
-          smart_enable: all
-    - pymdownx.caret
-    - pymdownx.mark
-    - pymdownx.tilde
-    - pymdownx.details
-    - pymdownx.critic
-    - pymdownx.inlinehilite
-    - pymdownx.smartsymbols
-    - pymdownx.keys
-    - pymdownx.snippets:
-        auto_append:
-          - .includes/abbreviations.md
-    - pymdownx.emoji:
-        emoji_index: !!python/name:materialx.emoji.twemoji
-        emoji_generator: !!python/name:materialx.emoji.to_svg
-    - pymdownx.highlight:
-       use_pygments: true
-       auto_title: true
-    - pymdownx.magiclink:
-        repo_url_shorthand: true
-        user: ZivSimchoni
-        repo: Zwiki
-    - pymdownx.superfences:
-        custom_fences:
+  # Python Markdown
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  # Python Markdown Extensions
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.details
+  - pymdownx.critic
+  - pymdownx.inlinehilite
+  - pymdownx.smartsymbols
+  - pymdownx.keys
+  - pymdownx.snippets:
+      auto_append:
+        - .includes/abbreviations.md
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.highlight:
+      use_pygments: true
+      auto_title: true
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: ZivSimchoni
+      repo: Zwiki
+  - pymdownx.superfences:
+      custom_fences:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
-    - pymdownx.tabbed:
-          alternate_style: true
-    - pymdownx.tasklist:
-          custom_checkbox: true
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
