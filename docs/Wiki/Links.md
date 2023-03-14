@@ -40,24 +40,27 @@ Courses in many subjects (Including programming and mathematics)
 -   [NextDNS](https://nextdns.io) - NextDNS is a DNS service that provides a free, reliable, and secure DNS service.
 -   [Quad9](https://www.quad9.net) - Quad9 is a free, global, public DNS service that provides reliable, secure, and reliable DNS services.
 -   [Pi-Hole](https://pi-hole.net) - The Pi-hole® is a [DNS sinkhole](https://en.wikipedia.org/wiki/DNS_sinkhole) that protects your devices from unwanted content, without installing any client-side software.
-- > You might also want to check [Google DNS](https://developers.google.com/speed/public-dns/) - Note that Google is a data mining company, and they probably do collect data on your DNS queries.
+> You might also want to check [Google DNS](https://developers.google.com/speed/public-dns/) - Note that Google is a data mining company, and they probably do collect data on your DNS queries.
 
 ### Email Services
+
 
 -   [Mailfence](https://mailfence.com) - Mailfence is an encrypted email service from Belgium, that offers OpenPGP based end-to-end encryption and digital signatures.
 -   [Tutanota](https://tutanota.com) - Tutanota is a free, secure email provider based in Germany. Its name comes from the Latin words “Tuta” and “Nota,” which translate to “secure note.”
 -   [ProtonMail](https://protonmail.com) - ProtonMail is a free, secure, Swiss email provider. Using open-source and zero-knowledge architecture.
-    <br>Also worth checking [Mailbox.org](https://mailbox.org), [cTemplar](https://ctemplar.com), [Disroot](https://disroot.org), [Posteo](https://posteo.de) and [Soverin](https://soverin.net). Alternatively, you can self host using [Mail-in-a-Box](https://mailinabox.email) or check [this guide](https://vadosware.io/post/its-never-been-easier-or-harder-to-self-host-email/).
 
-Do remember to check [This Email Security Checklist](https://security-list.js.org/#/README?id=emails).
-For deeper [reviews](https://restoreprivacy.com/email/secure/) of email security. [^2]
+??? info "Additional Info"
+    Check out this This [Email Security Checklist](https://security-list.js.org/#/README?id=emails).
+    For deeper [reviews](https://restoreprivacy.com/email/secure/) of email security. [^2]
+    <br> Additional providers worth checking [Mailbox.org](https://mailbox.org), [cTemplar](https://ctemplar.com), [Disroot](https://disroot.org), [Posteo](https://posteo.de) and [Soverin](https://soverin.net).<br>Alternatively, you can self host using [Mail-in-a-Box](https://mailinabox.email) or check [this guide](https://vadosware.io/post/its-never-been-easier-or-harder-to-self-host-email/).
+
 
 ### Hosts Lists
 
 -   [Peter Lowe Hosts](https://pgl.yoyo.org/adservers/serverlist.php)
 -   [Someone Who Cares Hosts](https://someonewhocares.org/hosts)
 -   [Steven Black Hosts](https://github.com/StevenBlack/hosts) - Unified hosts file + Extensions to choose from.
--   ~~[Energized Protection Hosts](https://energized.pro) - Unified hosts file that prevents your system from connecting to adware sites.~~  Seems like its no longer maintained.
+-   ~~[Energized Protection Hosts](https://energized.pro) - Unified hosts file that prevents your system from connecting to adware sites.~~ Seems like its no longer maintained.
 -   [Hagezi DNS Blocklist](https://github.com/hagezi/dns-blocklists) - Unified hosts file that prevents your system from connecting to adware sites.
 
 ### VPN
@@ -104,7 +107,5 @@ For deeper [reviews](https://restoreprivacy.com/email/secure/) of email security
     -   [/r PrivacyToolsIO](https://www.reddit.com/r/privacytoolsIO)
 
 [^1]: By Gibson Research Corporation.
-
 [^2]: Thanks to: [source 1](https://security-list.js.org/#/), [source 2](https://www.privacytools.io/#email), [source 3](https://restoreprivacy.com)
-
 [^3]: [source 1](https://www.reddit.com/r/privacytoolsIO/comments/pnql46/rprivacyguides_privacyguidesorg_what_you_need_to), [source 2](https://www.reddit.com/r/PrivacyGuides/comments/pnh9n8/what_happened_to_privacytools)
