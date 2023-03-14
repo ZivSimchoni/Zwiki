@@ -3,6 +3,7 @@ title: Android Apps
 ---
 
 # Android Apps
+
 ## Communication
 
 ### E-mail Clients
@@ -92,6 +93,7 @@ title: Android Apps
 -   [PowerAMP](https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer) - Music player for Android.
 
 ### Online Streaming
+
 -   ~~[YouTube Vanced](https://vancedapp.com)~~ [ReVanced](https://github.com/revanced) - Ad-Free YouTube & YT Music. [Telegram](https://t.me/app_revanced), [Discord](https://discord.com/invite/rF2YcEjcrT)
     -   [RVX Lite - Telegram](https://t.me/rvx_lite)
 -   [NewPipe](https://newpipe.net) - Free and open source YouTube client for Android.
@@ -123,6 +125,7 @@ title: Android Apps
 -   [MicroG](https://microg.org/download.html) - Google Play-Services alternative.
 -   [Island](https://play.google.com/store/apps/details?id=com.oasisfeng.island) - Sandbox environment to clone selected apps and isolate them from accessing your personal data outside the sandbox.
 -   [Insular](https://gitlab.com/secure-system/Insular) - Fork of Island with removed proprietary Google Play libraries.
+-   [Scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device On your computer.
 
 ## Alt. Apk Sources
 
