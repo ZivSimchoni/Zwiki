@@ -11,3 +11,4 @@
 *[ML]: Machine Learning
 *[DL]: Deep Learning
 *[AI]: Artificial Intelligence
+*[GDP]: Gross Domestic Product
