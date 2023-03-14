@@ -23,13 +23,8 @@ title: Software & Programs
 ## Maintenance
 
 -   [7Zip](https://www.7-zip.org/) / [PeaZip](www.peazip.org/) - file archiver with a high compression ratio.
--   [Etcher](https://etcher.io/) / [Rufus](https://rufus.akeo.ie/) - A Windows tool for writing images to USB sticks or SD/CF cards.
--   [DeltaCopy](http://www.aboutmyip.com/AboutMyXApp/DeltaCopy.jsp) - DeltaCopy is an open source, fast incremental backup program.
--   [Disk Space Saver](https://qiplex.com/software/disk-space-saver) - Disk Space Saver is available for Windows, Mac and Linux.
--   [DropIt](http://www.dropitproject.com/) - Personal assistant to automatically manage your files.
--   [Organize My Files](https://qiplex.com/software/organize-my-files/) - Organize files and folders in a click.
+-   [Etcher](https://etcher.io/) / [Rufus](https://rufus.akeo.ie/) - A tool for writing images to USB sticks or SD/CF cards.
 -   [restic](https://github.com/restic/restic) - restic is a backup program that is fast, efficient and secure.
--   [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/) - SpaceSniffer is a freeWare and portable tool application that lets you understand how folders and files are structured on your disks.
 -   [WinDirStat](https://windirstat.net/) - WinDirStat is a disk usage statistics viewer and cleanup tool. (SpaceSniffer alternative)
 
 ## Multimedia
@@ -62,7 +57,7 @@ title: Software & Programs
 -   [LibreWolf](https://librewolf-community.gitlab.io/install/) - A fork of Firefox, focused on privacy, security and freedom.
 -   [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en) - The Tor software protects you by bouncing your communications around a distributed network of relays run by volunteers all around the world.
 -   [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium) - A lightweight approach to removing Google web service dependency.
--   [Waterfox](https://www.waterfox.net/download) - Firefox fork, Waterfox is a lightweight, fast, and secure web browser.  `Note: Some websites will *not* work with this browser.`
+-   [Waterfox](https://www.waterfox.net/download) - Firefox fork, Waterfox is a lightweight, fast, and secure web browser. `Note: Some websites will *not* work with this browser.`
 
 ### Web Browsers Extensions
 
@@ -74,7 +69,7 @@ title: Software & Programs
     -   [Gesturefy (FireFox)](https://addons.mozilla.org/en-US/firefox/addon/gesturefy/)
     -   [CrxMouse (Chrome Store)](https://chrome.google.com/webstore/detail/crxmouse-chrome-gestures/jlgkpaicikihijadgifklkbpdajbkhjo)
 -   [XBrowserSync](https://www.xbrowsersync.org)
--   [UBlock Origin](https://ublockorigin.com) - Free, open-source ad content blocker.
+-   [UBlock Origin](https://ublockorigin.com) - Free, open-source ad content blocker. _Optional add additional [**Hosts Lists**](./Links.md#hosts-lists)._
     -   [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin)
     -   [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
 -   [Multi Account Containers (Firefox)](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/) - Cookies are separated by container, allowing you to use the web with multiple identities or accounts simultaneously.
@@ -113,6 +108,7 @@ title: Software & Programs
 -   [Bitwarden](https://bitwarden.com/download) - Bitwarden is a secure password manager for Windows, Mac, and Linux.
 -   [Bvckup2](https://bvckup2.com) -Simple fast backup: Light, versatile and very capable data replication software. Select a pair of folders and it will make sure that one stays an exact copy of the other.
 -   [Cryptomator](https://cryptomator.org/) - Free & Open Source client-side encryption for Dropbox, Google Drive, you name it. Protect your cloud files.
+-   [VeraCrypt](https://www.veracrypt.fr/code/VeraCrypt/) - Free open source disk encryption software for Windows, Mac OS X and Linux.
 -   [Enigmail](https://www.enigmail.net) - Enigmail automatically decrypts and verifies your Email.
 -   [Eraser](https://eraser.heidi.ie/) - Eraser is an advanced security tool for Windows which allows you to completely remove sensitive data from your hard drive by overwriting it several times with carefully selected patterns.
 -   [Flowcrypt](https://github.com/FlowCrypt/flowcrypt-browser) - FlowCrypt Browser extension for Chrome and Firefox .
@@ -120,7 +116,7 @@ title: Software & Programs
 -   [Librevault](https://librevault.com/) - File synchronization designed with privacy in mind.
 -   [PGP Suite](https://github.com/TheChiefMeat/pgp) - A simple and easy to use PGP system
 -   [Private Internet Access](https://www.privateinternetaccess.com/) - High-speed anonymous VPN Service.
--   [Spybot Anti-Beacon for Windows](https://www.safer-networking.org/spybot-anti-beacon) - Spybot Anti-Beacon is a standalone tool which was designed to block and stop the various tracking (telemetry) issues present in Windows 10 ([ShutUp10](https://www.oo-software.com/en/shutup10) alternative).
+-   [Spybot Anti-Beacon for Windows](https://www.safer-networking.org/spybot-anti-beacon) - Spybot Anti-Beacon is a standalone tool which was designed to block and stop the various tracking (telemetry) issues present in Windows 10 ([ShutUp10](https://www.oo-software.com/en/shutup10) alternative).  *Also check [Windows Hardning](./Windows.md#windows-hardening)*
 
 ## Social
 
@@ -135,7 +131,7 @@ title: Software & Programs
 
 ## Streaming
 
--   [Open Broadcaster Software](https://obsproject.com/) - Open Broadcaster Software is free and open source software for video recording and live streaming.
+-   [Open Broadcaster Software (OBS)](https://obsproject.com/) - Open Broadcaster Software is free and open source software for video recording and live streaming.
 -   [Streamlabs OBS](https://streamlabs.com/) - Forked version of OBS.
 
 ## System
