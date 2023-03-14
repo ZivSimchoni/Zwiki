@@ -78,7 +78,7 @@ title: Programming
 -   [PyCharm](https://www.jetbrains.com/pycharm) - PyCharm is an integrated development environment (IDE) used in computer programming, specifically for the Python language.
 -   [Terminus](https://github.com/Eugeny/terminus) - A terminal for the modern age.
 -   [Visual Studio](https://visualstudio.microsoft.com) - IDE that is used to develop computer programs, as well as websites, web apps, web services and mobile apps, and specifically great for C/C++/C#/.Net programming.
--   [Visual Studio Code (VSCode)](https://github.com/Microsoft/vscode) - VSCode is a type of tool that combines the simplicity of a code editor with what developers need. 
+-   [Visual Studio Code (VSCode)](https://github.com/Microsoft/vscode) - VSCode is a type of tool that combines the simplicity of a code editor with what developers need.
 <!-- TODO: ADD VScode extensions    -->
 -   [VScodium (Site)](https://vscodium.com) - Community-driven, binary releases of VSCode without MS branding/telemetry/licensing.
     -   [VScodium (GitHub)](https://github.com/VSCodium/vscodium)

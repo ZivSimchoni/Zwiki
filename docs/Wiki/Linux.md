@@ -41,5 +41,3 @@ title: Linux
 -   [ItsFOSS](https://itsfoss.com/) - Lots of FOSS and linux related stuff.
 -   [Linux Journey](https://linuxjourney.com/) - Linux Journey is a site dedicated to making learning Linux fun and easy.
 -   [Snapcraft](https://snapcraft.io/) - Snap is a software packaging and deployment system developed by [Canonical](https://canonical.com/) for operating systems that use the Linux kernel. The packages, called snaps, and the tool for using them, snapd, work across a range of Linux distros and allow software developers to distribute their applications directly to the users.
-
-<br>

@@ -1,8 +1,9 @@
 ---
-title: IOS Apps
+title: IOS
 ---
 
-# IOS Apps
+# IOS
+
 ## Communication
 
 ### E-mail Clients
@@ -94,4 +95,3 @@ title: IOS Apps
 -   [Matthew Cassinelli's - Shortcuts Library](https://www.matthewcassinelli.com/sirishortcuts/shortcuts-library/) - A collection of shortcuts for iOS and MacOS.
 -   [RoutineHub](https://routinehub.co/) - RoutineHub is a growing community around automating Apple iPhones and iPads with Siri Shortcuts.
 -   [r/ Shortcuts](https://www.reddit.com/r/shortcuts/) - Subreddit dedicated to sharing shortcuts and other useful information.
-
