@@ -5,7 +5,7 @@ hide:
 title: About Me
 ---
 
-# :material-human-greeting-variant: Hi there! 
+# :material-human-greeting-variant: Hi there!
 
 My name is Ziv. I'm a developer and student.
 
