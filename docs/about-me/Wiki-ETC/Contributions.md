@@ -30,11 +30,7 @@ Make sure your list is useful before submitting. That implies it having enough c
 Open an issue with the name of the program as the title.<br>
 :exclamation: If any of the links are dead, please open and issue and add any up-to-date links that you can provide.<br>
 
-
 ??? Note "**Email** Contribution Method"
-    If don't want to use any of the methods above you can send me an email on [zivs@duck.com](mailto:zivs@duck.com).<br>
-
+    If don't want to use any of the methods above you can send me an email on [zivs@duck.com](mailto:zivs@duck.com) or in the email at the footer.
 
 ## **Thank you for your suggestions and help!** { data-search-exclude }
-
-<br>
