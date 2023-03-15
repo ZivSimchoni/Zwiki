@@ -7,9 +7,9 @@ site_description: >-
 
 # Repository
 # shows a repo link in the top corner
-repo_name: ZivSimchoni/Zwiki
-repo_url: https://github.com/ZivSimchoni/Zwiki
-edit_uri: blob/main/docs/
+# repo_name: ZivSimchoni/Zwiki
+# repo_url: https://github.com/ZivSimchoni/Zwiki
+edit_uri: https://github.com/ZivSimchoni/Zwiki/blob/main/docs/
 
 # Copyright
 copyright: >
