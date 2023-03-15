@@ -23,10 +23,11 @@ theme:
     edit: material/file-edit
     view: material/file-eye
   name: material
-  custom_dir: .overrides
+  #custom_dir: .overrides
   features:
     - announce.dismiss
     - content.code.annotate
+    - content.code.copy
     #- content.action.view
     - content.action.edit
     #- content.tabs.link
