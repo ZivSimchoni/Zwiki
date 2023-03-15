@@ -9,7 +9,7 @@ title: Home
 <center><h1>:material-button-cursor: Heres quick navigation buttons for your convince.</h1></center>
 
 <style>
-.container { 
+.containerindex { 
   display: grid;
   grid-template-columns: minmax(10px, auto)  minmax(10px, auto) ;
   grid-template-rows: auto auto auto auto auto;
@@ -52,7 +52,7 @@ title: Home
 .linux { grid-area: linux; }
 </style>
 
-<div class="container" markdown>
+<div class="containerindex" markdown>
  <div class="android" markdown> [:fontawesome-brands-android: **Android**](./Wiki/Android.md){ .md-button .md-button--primary } </div>
   <div class="ios" markdown> [:fontawesome-brands-linux: **Linux**](./Wiki/Linux.md){ .md-button .md-button--primary } </div>
   <div class="windows" markdown>[:fontawesome-brands-windows: **Windows**](./Wiki/Windows.md){ .md-button .md-button--primary }</div>
