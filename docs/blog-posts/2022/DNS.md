@@ -105,7 +105,7 @@ The recursive resolver also has additional functionality depending on the types 
     Exit everything that uses the network and then follow the steps below.
 
 !!! example ""
-    I am using Quad9 DNS, feel free to choose any other provider [some that I recommend](../Wiki/Links.md#dns).
+    I am using Quad9 DNS, feel free to choose any other provider [some that I recommend](../../Wiki/Links.md#dns).
 
 ## Windows PCs
 
@@ -126,17 +126,17 @@ The recursive resolver also has additional functionality depending on the types 
 
 ??? info "Click me to view screenshots for the steps above"
     <br>
-    ![Windows Step 1](../assets/images/DNS/Win1.png){data-gallery="windows"}
+    ![Windows Step 1](../../assets/images/DNS/Win1.png){data-gallery="windows"}
     <br>
-    ![Windows Step 2](../assets/images/DNS/Win2.png){data-gallery="windows"}
+    ![Windows Step 2](../../assets/images/DNS/Win2.png){data-gallery="windows"}
     <br>
-    ![Windows Step 3](../assets/images/DNS/Win3.png){data-gallery="windows"}
+    ![Windows Step 3](../../assets/images/DNS/Win3.png){data-gallery="windows"}
     <br>
-    ![Windows Step 4](../assets/images/DNS/Win4.png){data-gallery="windows"}
+    ![Windows Step 4](../../assets/images/DNS/Win4.png){data-gallery="windows"}
     <br>
-    ![Windows Step 5](../assets/images/DNS/Win5.png){data-gallery="windows"}
+    ![Windows Step 5](../../assets/images/DNS/Win5.png){data-gallery="windows"}
     <br>
-    ![Windows Step 6](../assets/images/DNS/Win6.png){data-gallery="windows"}
+    ![Windows Step 6](../../assets/images/DNS/Win6.png){data-gallery="windows"}
     <br>
 
 **_Alternative Way:_**
@@ -170,13 +170,13 @@ Change DNS using the **terminal**, example [Here](https://www.linuxfordevices.co
 
 ??? info "Click me to view Linux screenshots"
     <br>
-    ![Linux Step 1](../assets/images/DNS/linux1.png){data-gallery="linux"}
+    ![Linux Step 1](../../assets/images/DNS/linux1.png){data-gallery="linux"}
     <br>
-    ![Linux Step 2](../assets/images/DNS/linux2.png){data-gallery="linux"}
+    ![Linux Step 2](../../assets/images/DNS/linux2.png){data-gallery="linux"}
     <br>
-    ![Linux Step 3](../assets/images/DNS/linux3.png){data-gallery="linux"}
+    ![Linux Step 3](../../assets/images/DNS/linux3.png){data-gallery="linux"}
     <br>
-    ![Linux Step 4](../assets/images/DNS/linux4.png){data-gallery="linux"}
+    ![Linux Step 4](../../assets/images/DNS/linux4.png){data-gallery="linux"}
     <br>
 
 [^1]: Thanks for CloudFlare for their post, for further information and more details check their blog: [What is DNS? | How DNS works](https://www.cloudflare.com/en-ca/learning/dns/what-is-dns/)
