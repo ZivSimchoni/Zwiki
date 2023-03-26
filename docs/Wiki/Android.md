@@ -84,6 +84,11 @@ title: Android Apps
 
 ## Media
 
+### Anime
+
+-   [Tachiyomi](https://tachiyomi.org/) - Free and open source manga reader for Android.
+-   [Aniyomi](https://aniyomi.org/) -  Unofficial fork of Tachiyomi for anime.
+
 ### Photos
 
 -   [QuickPic Gallery Mod](https://t.me/WSTprojects) - Supercharged gallery app. [Telegram Group](https://t.me/WSTchat), [XDA OP](https://forum.xda-developers.com/t/mod-app-gallery-quickpic-2021.3790425/#post-76519205)

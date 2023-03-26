@@ -50,6 +50,10 @@ title: IOS
 -   [AdGuard](https://apps.apple.com/app/apple-store/id1047223162) - AdGuard is a free, open-source, browser-based, ad-blocking browser extension.
 -   [NextDNS](https://apps.apple.com/app/nextdns/id1463342498) - NextDNS is a free DNS server that provides a free, fast, and reliable DNS service.
 
+### Firewall
+
+-   [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) and [Little Snitch Mini](https://obdev.at/products/littlesnitch-mini/index.html) - _MacOS App_ Little Snitch is a firewall that monitors the network traffic of your Mac and alerts you to any attempts to establish a network connection. see the [comparison](https://obdev.at/products/littlesnitch/compare.html) between both versions.
+
 ### VPNs
 
 -   [Mullvad](https://apps.apple.com/app/mullvad-vpn/id1488466513) - Privacy oriented, fast and easy to use VPN.
@@ -66,6 +70,13 @@ title: IOS
 -   [Tor Browser](https://apps.apple.com/app/onion-browser/id519296448) - Experience real private browsing without tracking, surveillance, or censorship.
 
 ## Media
+
+### Anime
+
+-   [Aidoku](https://aidoku.app/) - A free and open source manga reading application for iOS and iPadOS, with many sources.
+-   [AnimeNow](https://github.com/AnimeNow-Team/AnimeNow) - AnimeNow is a free, open-source, and ad-free anime streaming app. _require sideloading such as AltStore_
+-   [Soshiki](https://github.com/soshikimoe/soshiki-ios) - An open-source media browser and viewer for iOS 15+. (supports text, image and video).
+-   [NineAnimator](https://nineanimator.marcuszhou.com/) - a free and open source anime watching app for iOS and macOS. _require sideloading such as AltStore_
 
 ### Music and Videos
 
