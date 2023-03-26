@@ -153,3 +153,7 @@ title: Software & Programs
 -   [Speccy](https://www.ccleaner.com/speccy) - Need to find out what’s inside your computer? Speccy has all the information you need!
 -   [Taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - NTaskwarrior is a GTD, todo list, task management, command line utility with a multitude of features.
 -   [TeraCopy](https://www.codesector.com/teracopy) - Official site of TeraCopy, a free utility designed to copy files faster and more secure. It can verify copied files to ensure they are identical.
+
+## ETC.
+
+-   [IDA](https://hex-rays.com) - Hex-Rays is a leading provider of software tools for reverse engineering and analysis of binary code.
