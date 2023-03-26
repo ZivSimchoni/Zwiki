@@ -7,12 +7,11 @@
 <meta content="width=device-width,initial-scale=1" name="viewport"/>
 <meta content="A collection of links and resources that covers programming-related stuff and specific operating systems and platforms, Mobile Apps and various resources." name="description"/>
 <meta content="Ziv Simchoni" name="author"/>
-<link href="https://github.com/ZivSimchoni/Zwiki/blog-posts/2023/adb-files-to-phone/" rel="canonical"/>
-<link href="../../2022/Online-Security/" rel="prev"/>
-<link href="../obsidian-cheat-sheet/" rel="next"/>
+<link href="https://github.com/ZivSimchoni/Zwiki/blog-posts/2023/obsidian-cheat-sheet/" rel="canonical"/>
+<link href="../adb-files-to-phone/" rel="prev"/>
 <link href="../../../assets/favicon.svg" rel="icon"/>
 <meta content="mkdocs-1.4.2, mkdocs-material-9.1.4" name="generator"/>
-<title>Effortlessly transfer files to your Android device with ADB Push. - Ziv's Wiki</title>
+<title>Obsidian CheatSheet - Ziv's Wiki</title>
 <link href="../../../assets/stylesheets/main.240905d7.min.css" rel="stylesheet"/>
 <link href="../../../assets/stylesheets/palette.a0c5b2b5.min.css" rel="stylesheet"/>
 <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
@@ -58,7 +57,7 @@
 <div class="md-header__topic" data-md-component="header-topic">
 <span class="md-ellipsis">
             
-              Effortlessly transfer files to your Android device with ADB Push.
+              Obsidian CheatSheet
             
           </span>
 </div>
@@ -339,14 +338,14 @@
           2023
         </label>
 <ul class="md-nav__list" data-md-scrollfix="">
-<li class="md-nav__item md-nav__item--active">
-<input class="md-nav__toggle md-toggle" id="__toc" type="checkbox"/>
-<a class="md-nav__link md-nav__link--active" href="./">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../adb-files-to-phone/">
         Effortlessly transfer files to your Android device with ADB Push.
       </a>
 </li>
-<li class="md-nav__item">
-<a class="md-nav__link" href="../obsidian-cheat-sheet/">
+<li class="md-nav__item md-nav__item--active">
+<input class="md-nav__toggle md-toggle" id="__toc" type="checkbox"/>
+<a class="md-nav__link md-nav__link--active" href="./">
         Obsidian CheatSheet
       </a>
 </li>
@@ -371,54 +370,109 @@
 </div>
 <div class="md-content" data-md-component="content">
 <article class="md-content__inner md-typeset">
-<a class="md-content__button md-icon" href="https://github.com/ZivSimchoni/Zwiki/blob/main/docs/blog-posts/2023/adb-files-to-phone.md" title="Edit this page">
+<a class="md-content__button md-icon" href="https://github.com/ZivSimchoni/Zwiki/blob/main/docs/blog-posts/2023/obsidian-cheat-sheet.md" title="Edit this page">
 <svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M6 2c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h4v-1.9l10-10V8l-6-6H6m7 1.5L18.5 9H13V3.5m7.1 9.5c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-2 1.8L12 20.9V23h2.1l6.1-6.1-2.1-2.1Z"></path></svg>
 </a>
-<h1>Effortlessly transfer files to your Android device with ADB Push.</h1>
-<p>You can simply right click any file on your Windows Computer to send to your phone via adb push commands (without needing to type commands).</p>
-<p>This makes file transfers significantly faster (especially when you have a large number of small files). You can also push whole folders with the click of a button just like copy and paste.</p>
-<ol>
-<li>Download Android's SDK platform-tool from <a href="https://developer.android.com/studio/releases/platform-tools">Android developer site</a>. (That link is to the whole SDK - the minimal adb and fastboot version is enough)</li>
-<li>Extract the content in your C drive. (or any other drive if u wish) so it'll be as following: <code>C:\platform-tools\&lt;all dlls and exe files here&gt;</code></li>
-<li>Copy the following code and paste it into a new .txt file on your PC.</li>
-<li><em>Optional steps</em> (skip to step 5 if you don't want to do this)<ol>
-<li>If you've extracted the files in other location - Edit the path to adb.exe file in below code.</li>
-<li>The files will be moved to the 'Download' directory in the internal storage. <strong>the script wont work if the folder is missing or misspelled</strong>. You can use any folder just make sure you create the folder in your mobile and change the below code accordingly.</li>
-</ol>
-</li>
-<li>Save the file with .reg extension. (eg: adb-push.reg)</li>
-<li>Double click the file to install the reg entry.</li>
-<li>Enable developer options and enable usb debugging on your mobile and plug it in to your PC.</li>
-<li>Accept the request for usb debugging access on your phone when you run this adb command for the first time.</li>
-<li><em>Optional step</em> Wireless adb - first, you must use the command 'adb connect 192.168.xxx' to connect adb wirelessly first. (Replace ip address with your phones current ip address)</li>
-</ol>
-<div class="copy highlight"><span class="filename">Reg Entry</span><pre><span></span><code>    Windows Registry Editor Version 5.00
-
-    [HKEY_CLASSES_ROOT\*\shell\ADB Push to Phone]
-
-    [HKEY_CLASSES_ROOT\*\shell\ADB Push to Phone\command]
-    @="C:\\platform-tools\\adb.exe push \"%1\" /sdcard/Download/"
-
-    [HKEY_CLASSES_ROOT\Folder\shell\ADB Push to Phone]
-
-    [HKEY_CLASSES_ROOT\Folder\shell\ADB Push to Phone\command]
-    @="C:\\platform-tools\\adb.exe push \"%1\" /sdcard/Download/"
-</code></pre></div>
-<p>Personally I've used only the <strong>wired</strong> connection to push files and its absolutely convenient and fast.</p>
-<div class="footnote">
-<hr/>
-<ol>
-<li id="fn:1">
-<p>Inspired from <a href="https://forum.xda-developers.com/t/use-adb-push-to-copy-files-to-device-at-blazing-fast-speeds-with-a-simple-right-click.4558759/">this</a> xda post <a class="footnote-backref" href="#fnref:1" title="Jump back to footnote 1 in the text">↩</a></p>
-</li>
-</ol>
-</div>
+<h1>Obsidian CheatSheet</h1>
+<table>
+<thead>
+<tr>
+<th align="center">Prefix</th>
+<th align="left">File Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">@</td>
+<td align="left">Folder Note</td>
+</tr>
+<tr>
+<td align="center">%</td>
+<td align="left">Template</td>
+</tr>
+<tr>
+<td align="center">+</td>
+<td align="left">Tag Note</td>
+</tr>
+<tr>
+<td align="center">,</td>
+<td align="left">System</td>
+</tr>
+<tr>
+<td align="center">_</td>
+<td align="left">Temporary</td>
+</tr>
+<tr>
+<td align="center">}</td>
+<td align="left">Misc/Combination/TBD</td>
+</tr>
+<tr>
+<td align="center">~</td>
+<td align="left">Notes</td>
+</tr>
+<tr>
+<td align="center">-</td>
+<td align="left">Topic</td>
+</tr>
+<tr>
+<td align="center">$</td>
+<td align="left">CheatSheet/Header</td>
+</tr>
+<tr>
+<td align="center">!</td>
+<td align="left">Project/something I'm doing</td>
+</tr>
+<tr>
+<td align="center">=</td>
+<td align="left">Code</td>
+</tr>
+<tr>
+<td align="center">'</td>
+<td align="left">Article</td>
+</tr>
+<tr>
+<td align="center">&amp;</td>
+<td align="left">Reference/Source</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th align="center">Prefix Combination Examples</th>
+<th>File Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">~!</td>
+<td>notes about possible project</td>
+</tr>
+<tr>
+<td align="center">~&amp;</td>
+<td>Notes about reference</td>
+</tr>
+<tr>
+<td align="center">@!</td>
+<td>Project Folder</td>
+</tr>
+<tr>
+<td align="center">@-</td>
+<td>Folder for a topic</td>
+</tr>
+<tr>
+<td align="center">_~</td>
+<td>temporary notes</td>
+</tr>
+</tbody>
+</table>
+<p><a class="glightbox" data-desc-position="bottom" data-height="auto" data-type="image" data-width="90%" href="../../../assets/images/obsidian_formatting_cheatsheet.png"><img alt="Obsidian CheatSheet" src="../../../assets/images/obsidian_formatting_cheatsheet.png"/></a></p>
 <hr/>
 <div class="md-source-file">
 <small>
     
       Last update:
-      <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-iso_date">2023-03-14</span>
+      <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-iso_date">2023-03-26</span>
 </small>
 </div>
 </article>
@@ -431,7 +485,7 @@
 </main>
 <footer class="md-footer">
 <nav aria-label="Footer" class="md-footer__inner md-grid">
-<a aria-label="Previous: Online Security" class="md-footer__link md-footer__link--prev" href="../../2022/Online-Security/" rel="prev">
+<a aria-label="Previous: Effortlessly transfer files to your Android device with ADB Push." class="md-footer__link md-footer__link--prev" href="../adb-files-to-phone/" rel="prev">
 <div class="md-footer__button md-icon">
 <svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"></path></svg>
 </div>
@@ -440,21 +494,8 @@
 <span class="md-footer__direction">
                   Previous
                 </span>
-                Online Security
+                Effortlessly transfer files to your Android device with ADB Push.
               </div>
-</div>
-</a>
-<a aria-label="Next: Obsidian CheatSheet" class="md-footer__link md-footer__link--next" href="../obsidian-cheat-sheet/" rel="next">
-<div class="md-footer__title">
-<div class="md-ellipsis">
-<span class="md-footer__direction">
-                  Next
-                </span>
-                Obsidian CheatSheet
-              </div>
-</div>
-<div class="md-footer__button md-icon">
-<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4Z"></path></svg>
 </div>
 </a>
 </nav>
