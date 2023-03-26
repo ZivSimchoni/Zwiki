@@ -22,12 +22,14 @@ title: Programming
 -   [Best Sites GitHub Repo](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - Some useful websites for programmers.
 -   [Big-O Cheat Sheet](https://www.bigocheatsheet.com) - Space and time Big-O complexities of common algorithms used in Computer Science.
 -   [Curated Courses](https://curated-courses.herokuapp.com) - A curated list of courses in Computer Science, Physics, Economics and Math.
+-   [Coding Interview University](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 -   [Geeks For Geeks](https://www.geeksforgeeks.org) - Variety of services for you to learn, thrive and also have fun!
 -   [GlassDoor](https://www.glassdoor.com) - Glassdoor also allows users to anonymously submit and view salaries as well as search and apply for jobs on its platform.
 -   [Hack The Box](https://www.hackthebox.eu) - Offering everything that is required to take your training seriously and kickstart a career in cybersecurity..
 -   [Keyboard](https://www.keybr.com) - This web application will help you to learn touch typing, which means typing through muscle memory without using the sense of sight to find the keys on the keyboard.
 -   [Learn X in Y minutes](https://learnxinyminutes.com) - Community-driven site to take a whirlwind tour of your next favorite language.
 -   [Mega Project List](https://github.com/karan/Projects/blob/master/README.md) - A list of practical projects that anyone can solve in any programming language. (Good for programing practices)
+-   [Public API](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development.
 -   [Pastebin](https://pastebin.com) - Store any text online for easy sharing. (Expiration time can be set to texts)
 -   [Regex101](https://regex101.com) - Learn regular expressions in a fun and interactive way.
 -   [Roadmap](https://roadmap.sh/) - Community effort to create roadmaps, guides and other educational content to help guide the developers in picking up the path and guide their learnings.
@@ -58,6 +60,11 @@ title: Programming
     -   [Real Python](https://realpython.com) - Python Tutorials, guides and tricks.
     -   [Python Cheat Sheets](https://www.pythoncheatsheet.org) - A collection of Python code snippets and examples.
 -   [Ruby](https://www.ruby-lang.org/en) - A dynamic, open source programming language with a focus on simplicity and productivity.
+
+## JSON
+
+- [JSON crack](https://jsoncrack.com/editor) - Seamlessly visualize your JSON data instantly into graphs. [VSCode Extension](https://marketplace.visualstudio.com/items?itemName=AykutSarac.jsoncrack-vscode)
+- [JSON Hero](https://jsonhero.io/) - JSON Hero is a free online tool to help you visualize, edit, and format your JSON data easily.
 
 ## Related Programs
 
