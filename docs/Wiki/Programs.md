@@ -50,10 +50,13 @@ title: Software & Programs
 
 ### Web Browsers
 
+!!! info "Check this [PrivacyTests Chart](https://privacytests.org/android.html) for indepth comparison of browsers."
+
 -   [Brave](https://brave.com) - Brave is a privacy-first web browser.
 -   [FireFox](https://www.mozilla.org/en-US/firefox/new/) - No shady privacy policies or back doors for advertisers. Just a lightning fast browser that doesn’t sell you out.
     -   [FireFox user.js](https://github.com/arkenfox/user.js)
     -   [Firefox privacy tweaks](https://www.privacyguides.org/blog/2021/12/01/firefox-privacy-2021-update/)
+-   [Mullvad Browser](https://mullvad.net/en/browser/) - The Mullvad Browser is a privacy-focused web browser developed in a collaboration between Mullvad VPN and the Tor Project.
 -   [LibreWolf](https://librewolf-community.gitlab.io/install/) - A fork of Firefox, focused on privacy, security and freedom.
 -   [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en) - The Tor software protects you by bouncing your communications around a distributed network of relays run by volunteers all around the world.
 -   [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium) - A lightweight approach to removing Google web service dependency.
