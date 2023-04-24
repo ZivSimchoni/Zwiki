@@ -19,15 +19,16 @@ General sources for all kinds of topics and links.
 
 Courses in many subjects (Including programming and mathematics)
 
--   [Coursera](https://www.coursera.org)
--   [MIT Open Courses](https://ocw.mit.edu/courses)
--   [Udemy](https://www.udemy.com)
+-   [Coursera](https://www.coursera.org) - Coursera is an online learning platform that offers online courses, specializations, and degrees.
+-   [CampusIL](https://campus.gov.il/) - Free online courses from Israeli universities.
+-   [MIT Open Courses](https://ocw.mit.edu/courses) - MIT Open Courses is a free and open educational resource.
+-   [Udemy](https://www.udemy.com) - Udemy is an online learning platform that offers online courses.
 
 ### Forums
 
 -   [XDA Forums](https://forum.xda-developers.com) - XDA Developers was founded by developers, for developers. It is now a valuable resource for people who want to make the most of their mobile devices.
 -   [Dev.to](https://dev.to) - developers focused community.
-<!-- TODO: Add medium -->
+-   [Medium](https://medium.com) - Medium is an online publishing platform that enables users to discover, read, and interact with stories that matter most to them.
 
 ## Network Related
 
@@ -65,10 +66,11 @@ Courses in many subjects (Including programming and mathematics)
 
 ### VPN
 
-[VPN Comparison Guide](https://docs.google.com/spreadsheets/d/e/2PACX-1vRh1eSvC9A9hvNE9m1ZgfZQu5GtREEXtKQ25BmCLveYduOl4kVc5gDO7Mj28oOboAv-VTIMtY7JdKpP/pubhtml#) - VPNs ranked based on privacy polices & more.
+[VPN Comparison Guide](https://docs.google.com/spreadsheets/d/e/2PACX-1vRh1eSvC9A9hvNE9m1ZgfZQu5GtREEXtKQ25BmCLveYduOl4kVc5gDO7Mj28oOboAv-VTIMtY7JdKpP/pubhtml#) - VPNs ranked based on privacy polices & more. _may not be up to date_
 
--   [Mullvad](https://mullvad.net/en/download/android/) - Privacy oriented, fast and easy to use VPN.
--   [NordVPN](https://nordvpn.com/download/android/) - _Paid_ VPN service.
+-   [IVPN](https://www.ivpn.net/) - Premium VPN service. Based in Gibraltar.
+-   [Mullvad](https://mullvad.net/en/download/android/) - Privacy oriented, fast and easy to use VPN. Based in Sweden.
+-   [NordVPN](https://nordvpn.com/download/android/) - VPN service.
 -   [ProtonVPN](https://protonapps.com) - ProtonVPN is a free, open-source VPN service that provides secure, fast, and reliable VPN services.
 -   [WireGuard](https://www.wireguard.com/install/) - Simple yet fast and modern VPN that utilizes state-of-the-art cryptography.
 
