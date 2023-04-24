@@ -44,6 +44,7 @@ title: Android Apps
 -   [Joplin](https://play.google.com/store/apps/details?id=net.cozic.joplin) - Joplin is an open source note-taking app. Capture your thoughts and securely access them from any device.
 -   [Obsidian Notes](https://play.google.com/store/apps/details?id=md.obsidian) - Obsidian is a powerful knowledge base on top of a local folder of plain text Markdown files.
 -   [Standard Notes](https://play.google.com/store/apps/details?id=com.standardnotes) - Standard Notes is a safe place for your notes, thoughts, and life's work.
+-   [NoteSnook](https://notesnook.com/) - Open source, end-to-end encrypted, and completely private notes app. Evernote & Standard Notes alternative.
 
 ## Internet
 
@@ -56,10 +57,12 @@ title: Android Apps
 -   [Blockada](https://blokada.org) - Ad Blocker using VPN. BEST for rootless devices.
 -   [DNS66](https://jak-linux.org/projects/dns66/) - Ad Blocker using VPN. No root required.
 
+
 ### Firewalls
 
 -   [AFWall+](https://github.com/ukanth/afwall/) - Control network traffic (Requires root).
 -   [NetGuard](https://netguard.me/) - NetGuard provides simple and advanced ways to block access to the internet - no root required.
+-   [ReThink](https://rethinkdns.com/app/) - FireWall & DNS based ad blocking and privacy protection. No root required.
 
 ### VPNs
 
@@ -70,6 +73,8 @@ title: Android Apps
 -   [WireGuard](https://www.wireguard.com/install/) - Simple yet fast and modern VPN that utilizes state-of-the-art cryptography.
 
 ### Web Browsers
+
+!!! info "Check this [PrivacyTests Chart](https://privacytests.org/android.html) for indepth comparison of browsers."
 
 -   [Brave](https://brave.com/) - Chromium fork with ad blocking enhancements.
 -   [Bromite](https://www.bromite.org) - Chromium fork with ad blocking and privacy enhancements; take back your browser!
@@ -88,6 +93,7 @@ title: Android Apps
 
 -   [Tachiyomi](https://tachiyomi.org/) - Free and open source manga reader for Android.
 -   [Aniyomi](https://aniyomi.org/) -  Unofficial fork of Tachiyomi for anime.
+-   [Saikou] - Saikou is crafted based on simplistic yet state-of-the-art elegance. It is an Anilist only client. Supports Steam/Download Anime & Manga.
 
 ### Photos
 
