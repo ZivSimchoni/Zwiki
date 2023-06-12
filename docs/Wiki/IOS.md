@@ -52,6 +52,11 @@ title: IOS
 -   [Sorted³ Calendar Notes Tasks](https://apps.apple.com/app/sorted-calendar-notes-tasks/id1306893526) - Hyper-scheduling, task manager, and calendar app.
 -   [Supershift - Shift Planner](https://apps.apple.com/app/supershift-shift-planner/id1104165041) - Supershift is great for keeping up with your shift working schedule and all other calendar events, you can view statistics and reports about the shifts.
 
+### Widgets
+
+-   [Widgetsmith ](https://apps.apple.com/app/widgetsmith/id1523682319) -  Widgetsmith lets you personalize your home screen and lock screen like never before.
+-   [Widgy Widgets](https://apps.apple.com/app/widgy-widgets/id1524540481) - Widgy is a powerful widget editor, all the information you need can be easily surfaced through a widget that you designed or chose from the widget gallery. (Has strong community)
+
 ## Internet
 
 ### Advertisement blocking
