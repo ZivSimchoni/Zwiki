@@ -104,6 +104,7 @@ title: Android Apps
 ### Music and Videos
 
 -   [VLC](https://www.videolan.org/vlc/download-android.html) - FOSS cross-platform multimedia player and framework that plays most multimedia files.
+-   [ViMusic](https://github.com/vfsfitvnm/ViMusic) - Seamlessly stream music from YouTube Music, with beautiful UI.
 -   [PowerAMP](https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer) - Music player for Android.
 
 ### Online Streaming
@@ -149,6 +150,9 @@ title: Android Apps
 -   [F-Droid](https://f-droid.org) - Wide catalogue of FOSS android applications.
     -   [F-Droid Known Repos](https://forum.f-droid.org/t/known-repositories/721)
     -   [Unofficial (and incomplete) list of F-Droid repositories - IzzyOnDroid](https://android.izzysoft.de/articles/named/list-of-fdroid-repos)
+-   [Droid-ify](https://github.com/Iamlooker/Droid-ify) - A quick material F-Droid client.
+-   [Foxy Droid](https://github.com/kitsunyan/foxy-droid) - Yet another F-Droid client, outdated but still works well. _(for the time of writing last update 3 years ago)_
+-   [Neo Store](https://github.com/NeoApplications/Neo-Store) - FOSS client for F-Droid.
 
 ## ROMs
 
