@@ -40,11 +40,17 @@ title: IOS
 -   [Apple Freeform](https://apps.apple.com/app/freeform/id6443742539) - Flexible canvas for notes, sketches, diagrams, and more, shareable within the ecosystem.
 -   [GoodNotes](https://apps.apple.com/app/goodnotes-5/id1444383602) - GoodNotes 5 is a combination digital notepad and PDF markup tool. And it’s very good at both.
 -   [Joplin](https://apps.apple.com/app/joplin/id1315599797) - Joplin is an open source note-taking app. Capture your thoughts and securely access them from any device.
+-   [Microsoft Whiteboard](https://apps.apple.com/app/microsoft-whiteboard/id1352499399) - Flexible canvas for notes, sketches, diagrams, and more, shareable with anyone.
 -   [Notability](https://apps.apple.com/app/notability/id360593530) - Powerful, yet wonderfully simple note-taking and PDF annotation.
 -   [Notes Writer](https://apps.apple.com/app/notes-writer-pdf-words-epub/id1423643723) - Notes Writer is a comprehensive note-taking app & PDF annotator.
--   [Microsoft Whiteboard](https://apps.apple.com/app/microsoft-whiteboard/id1352499399) - Flexible canvas for notes, sketches, diagrams, and more, shareable with anyone.
 -   [Obsidian Notes](https://apps.apple.com/app/obsidian-connected-notes/id1557175442) - Obsidian is a powerful knowledge base on top of a local folder of plain text Markdown files.
 -   [Standard Notes](https://apps.apple.com/app/standard-notes/id1285392450) - Standard Notes is a safe place for your notes, thoughts, and life's work.
+
+### To-Do Lists & Task Managers
+
+-   [Fantastical Calendar](https://apps.apple.com/app/fantastical-calendar/id718043190) - _Paid_ Calendar app on steroids.
+-   [Sorted³ Calendar Notes Tasks](https://apps.apple.com/app/sorted-calendar-notes-tasks/id1306893526) - Hyper-scheduling, task manager, and calendar app.
+-   [Supershift - Shift Planner](https://apps.apple.com/app/supershift-shift-planner/id1104165041) - Supershift is great for keeping up with your shift working schedule and all other calendar events, you can view statistics and reports about the shifts.
 
 ## Internet
 
@@ -84,13 +90,13 @@ title: IOS
 
 -   [Aidoku](https://aidoku.app/) - A free and open source manga reading application for iOS and iPadOS, with many sources.
 -   [AnimeNow](https://github.com/AnimeNow-Team/AnimeNow) - AnimeNow is a free, open-source, and ad-free anime streaming app. _require sideloading such as AltStore_
--   [Soshiki](https://github.com/soshikimoe/soshiki-ios) - An open-source media browser and viewer for iOS 15+. (supports text, image and video).
 -   [NineAnimator](https://nineanimator.marcuszhou.com/) - a free and open source anime watching app for iOS and macOS. _require sideloading such as AltStore_
+-   [Soshiki](https://github.com/soshikimoe/soshiki-ios) - An open-source media browser and viewer for iOS 15+. (supports text, image and video).
 
 ### Music and Videos
 
--   [VLC](https://apps.apple.com/app/vlc-for-mobile/id650377962) - FOSS cross-platform multimedia player and framework that plays most multimedia files.
 -   [Logic Pro (Mac)](https://apps.apple.com/app/logic-pro/id634148309) [iPad](https://apps.apple.com/app/logic-pro-for-ipad/id1615087040) - _Paid_ professional music creation app.
+-   [VLC](https://apps.apple.com/app/vlc-for-mobile/id650377962) - FOSS cross-platform multimedia player and framework that plays most multimedia files.
 
 ### Photos
 
