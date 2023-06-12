@@ -92,8 +92,8 @@ title: Android Apps
 
 ### Anime
 
--   [Tachiyomi](https://tachiyomi.org/) - Free and open source manga reader for Android.
 -   [Aniyomi](https://aniyomi.org/) -  Unofficial fork of Tachiyomi for anime.
+-   [Tachiyomi](https://tachiyomi.org/) - Free and open source manga reader for Android.
 -   [Saikou](https://github.com/saikou-app/saikou) - Saikou is crafted based on simplistic yet state-of-the-art elegance. It is an Anilist only client. Supports Steam/Download Anime & Manga.
 
 ### Photos
