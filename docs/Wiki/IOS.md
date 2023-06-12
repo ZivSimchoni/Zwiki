@@ -21,7 +21,7 @@ title: IOS
 
 ### Social Media
 
--   [Apollo](https://apps.apple.com/app/apollo-for-reddit/id979274575) - Unofficial Reddit client, created specifically with iOS design guidelines in mind, beautiful and powerful.
+-   ~~[Apollo](https://apps.apple.com/app/apollo-for-reddit/id979274575) - Unofficial Reddit client, created specifically with iOS design guidelines in mind, beautiful and powerful.~~ [Apollo will close ](https://www.reddit.com/r/apolloapp/comments/144f6xm/apollo_will_close_down_on_june_30th_reddits/) :material-emoticon-sad:
 -   [Slide](https://apps.apple.com/app/slide-for-reddit/id1260626828) - Unofficial Open Sourced Reddit client, clean UI and smooth experience.
 
 ## Files & System
@@ -40,6 +40,7 @@ title: IOS
 -   [GoodNotes](https://apps.apple.com/app/goodnotes-5/id1444383602) - GoodNotes 5 is a combination digital notepad and PDF markup tool. And it’s very good at both.
 -   [Joplin](https://apps.apple.com/app/joplin/id1315599797) - Joplin is an open source note-taking app. Capture your thoughts and securely access them from any device.
 -   [Notability](https://apps.apple.com/app/notability/id360593530) - Powerful, yet wonderfully simple note-taking and PDF annotation.
+-   [Notes Writer](https://apps.apple.com/app/notes-writer-pdf-words-epub/id1423643723) - Notes Writer is a comprehensive note-taking app & PDF annotator.
 -   [Obsidian Notes](https://apps.apple.com/app/obsidian-connected-notes/id1557175442) - Obsidian is a powerful knowledge base on top of a local folder of plain text Markdown files.
 -   [Standard Notes](https://apps.apple.com/app/standard-notes/id1285392450) - Standard Notes is a safe place for your notes, thoughts, and life's work.
 
@@ -71,6 +72,10 @@ title: IOS
 -   [Firefox Focus](https://apps.apple.com/app/firefox-focus-privacy-browser/id1055677337) - Privacy-oriented browser with tracking protection and content blocking.
 -   [Tor Browser](https://apps.apple.com/app/onion-browser/id519296448) - Experience real private browsing without tracking, surveillance, or censorship.
 
+### Web Browsers Extensions
+
+-   [Hush](https://oblador.github.io/hush/) - Block nags to accept cookies and privacy invasive tracking in Safari on Mac, iPhone and iPad.
+
 ## Media
 
 ### Anime
@@ -83,9 +88,12 @@ title: IOS
 ### Music and Videos
 
 -   [VLC](https://apps.apple.com/app/vlc-for-mobile/id650377962) - FOSS cross-platform multimedia player and framework that plays most multimedia files.
+-   [Logic Pro (Mac)](https://apps.apple.com/app/logic-pro/id634148309) [iPad](https://apps.apple.com/app/logic-pro-for-ipad/id1615087040) - _Paid_ professional music creation app.
 
 ### Photos
 
+-   [DaVinci Resolve (Mac)](https://apps.apple.com/app/davinci-resolve/id571213070) [iPad](https://apps.apple.com/app/davinci-resolve-for-ipad/id1581363826) - DaVinci Resolve is a color grading, color correction, visual effects, and audio post-production video editing.
+-   [Lightroom](https://apps.apple.com/app/lightroom-photo-video-editor/id878783582) - Adobe's photo & video editor, powerful and easy to use.
 -   [Procreate](https://apps.apple.com/app/apple-store/id425073498?pt=345446) - _Paid app_ Procreate is the leading creative application made for iPad.
 -   [Snapseed](https://apps.apple.com/app/snapseed/id439438619) - Snapseed is a complete and professional photo editor.
 
