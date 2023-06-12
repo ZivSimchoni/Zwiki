@@ -33,7 +33,7 @@ title: Android Apps
 -   [MiXplorer](https://mixplorer.com) - Fast, smooth, beautiful, reliable and full-featured file manager with a simple and intuitive user interface. [XDA](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/#post-23109280), & [Play Store](https://play.google.com/store/apps/details?id=com.mixplorer.silver) IMHO: Hands down, one of the bests file explorer.
 -   [Solid Explorer](https://play.google.com/store/apps/details?id=pl.solidexplorer2) - Solid Explorer is a file management app inspired by the old school file commander applications.
 -   [SD Maid](https://sdmaid.darken.eu) - It helps you manage files and apps. It works with any Android device and any storage that is accessible.
--   [SD Maid 2/SE](https://play.google.com/store/apps/details?id=eu.darken.sdmse) - SD Maid SE is the successor to SD Maid. A complete rewrite, optimized for newer Android versions, with a focus on SD Maid's most popular features. *WIP* [GitHub](https://github.com/d4rken-org/sdmaid-se) 
+-   [SD Maid 2/SE](https://play.google.com/store/apps/details?id=eu.darken.sdmse) - SD Maid SE is the successor to SD Maid. A complete rewrite, optimized for newer Android versions, with a focus on SD Maid's most popular features. _WIP_ [GitHub](https://github.com/d4rken-org/sdmaid-se)
 
 ### Launchers
 
@@ -47,6 +47,9 @@ title: Android Apps
 -   [Standard Notes](https://play.google.com/store/apps/details?id=com.standardnotes) - Standard Notes is a safe place for your notes, thoughts, and life's work.
 -   [NoteSnook](https://notesnook.com/) - Open source, end-to-end encrypted, and completely private notes app. Evernote & Standard Notes alternative.
 
+<!-- TODO: ADD To-Do Lists & Task Managers section    -->
+<!-- TODO: ADD Widgets section    -->
+
 ## Internet
 
 ### Advertisement blocking
@@ -57,7 +60,6 @@ title: Android Apps
 -   [AdGuard](https://adguard.com/en/welcome.html) - Ad Blocker using VPN. No root required.
 -   [Blockada](https://blokada.org) - Ad Blocker using VPN. BEST for rootless devices.
 -   [DNS66](https://jak-linux.org/projects/dns66/) - Ad Blocker using VPN. No root required.
-
 
 ### Firewalls
 
@@ -88,11 +90,13 @@ title: Android Apps
 -   [Tor Browser](https://guardianproject.info/apps/org.torproject.torbrowser) - Experience real private browsing without tracking, surveillance, or censorship.
 -   [Ungoogled Chromium](https://uc.droidware.info/) - It is the Android version of Ungoogle-Chromium.
 
+<!-- TODO: ADD Web Browser Extension section    -->
+
 ## Media
 
 ### Anime
 
--   [Aniyomi](https://aniyomi.org/) -  Unofficial fork of Tachiyomi for anime.
+-   [Aniyomi](https://aniyomi.org/) - Unofficial fork of Tachiyomi for anime.
 -   [Tachiyomi](https://tachiyomi.org/) - Free and open source manga reader for Android.
 -   [Saikou](https://github.com/saikou-app/saikou) - Saikou is crafted based on simplistic yet state-of-the-art elegance. It is an Anilist only client. Supports Steam/Download Anime & Manga.
 
@@ -141,6 +145,8 @@ title: Android Apps
 -   [Island](https://play.google.com/store/apps/details?id=com.oasisfeng.island) - Sandbox environment to clone selected apps and isolate them from accessing your personal data outside the sandbox.
 -   [Insular](https://gitlab.com/secure-system/Insular) - Fork of Island with removed proprietary Google Play libraries.
 -   [Scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device On your computer.
+
+<!-- TODO: ADD Tasker Profiles (?)    -->
 
 ## Alt. Apk Sources
 
