@@ -37,10 +37,12 @@ title: IOS
 
 ### Notes
 
+-   [Apple Freeform](https://apps.apple.com/app/freeform/id6443742539) - Flexible canvas for notes, sketches, diagrams, and more, shareable within the ecosystem.
 -   [GoodNotes](https://apps.apple.com/app/goodnotes-5/id1444383602) - GoodNotes 5 is a combination digital notepad and PDF markup tool. And it’s very good at both.
 -   [Joplin](https://apps.apple.com/app/joplin/id1315599797) - Joplin is an open source note-taking app. Capture your thoughts and securely access them from any device.
 -   [Notability](https://apps.apple.com/app/notability/id360593530) - Powerful, yet wonderfully simple note-taking and PDF annotation.
 -   [Notes Writer](https://apps.apple.com/app/notes-writer-pdf-words-epub/id1423643723) - Notes Writer is a comprehensive note-taking app & PDF annotator.
+-   [Microsoft Whiteboard](https://apps.apple.com/app/microsoft-whiteboard/id1352499399) - Flexible canvas for notes, sketches, diagrams, and more, shareable with anyone.
 -   [Obsidian Notes](https://apps.apple.com/app/obsidian-connected-notes/id1557175442) - Obsidian is a powerful knowledge base on top of a local folder of plain text Markdown files.
 -   [Standard Notes](https://apps.apple.com/app/standard-notes/id1285392450) - Standard Notes is a safe place for your notes, thoughts, and life's work.
 
