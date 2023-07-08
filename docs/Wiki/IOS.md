@@ -100,12 +100,13 @@ title: IOS
 
 ### Music and Videos
 
--   [Logic Pro (Mac)](https://apps.apple.com/app/logic-pro/id634148309) [iPad](https://apps.apple.com/app/logic-pro-for-ipad/id1615087040) - _Paid_ professional music creation app.
+-   [DaVinci Resolve (Mac)](https://apps.apple.com/app/davinci-resolve/id571213070), [iPad](https://apps.apple.com/app/davinci-resolve-for-ipad/id1581363826) - DaVinci Resolve is a color grading, color correction, visual effects, and audio post-production video editing.
+-   [Final Cut Pro (Mac)](https://apps.apple.com/app/final-cut-pro/id424389933), [iPad](https://apps.apple.com/app/final-cut-pro-for-ipad/id1631624924) - _Paid_ professional video editing app.
+-   [Logic Pro (Mac)](https://apps.apple.com/app/logic-pro/id634148309), [iPad](https://apps.apple.com/app/logic-pro-for-ipad/id1615087040) - _Paid_ professional music creation app.
 -   [VLC](https://apps.apple.com/app/vlc-for-mobile/id650377962) - FOSS cross-platform multimedia player and framework that plays most multimedia files.
 
 ### Photos
 
--   [DaVinci Resolve (Mac)](https://apps.apple.com/app/davinci-resolve/id571213070) [iPad](https://apps.apple.com/app/davinci-resolve-for-ipad/id1581363826) - DaVinci Resolve is a color grading, color correction, visual effects, and audio post-production video editing.
 -   [Lightroom](https://apps.apple.com/app/lightroom-photo-video-editor/id878783582) - Adobe's photo & video editor, powerful and easy to use.
 -   [Procreate](https://apps.apple.com/app/apple-store/id425073498?pt=345446) - _Paid app_ Procreate is the leading creative application made for iPad.
 -   [Snapseed](https://apps.apple.com/app/snapseed/id439438619) - Snapseed is a complete and professional photo editor.
