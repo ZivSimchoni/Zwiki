@@ -6,7 +6,7 @@ As you may know, YouTube has added a new feature called "Shorts", which is basic
 
 Prerequisite:<br>uBlock Origin extension installed on your browser.
 
-1. Open uBlock Origin dashboard.
+1. Open uBlock Origin dashboard. (You might need to click on "more" button to see it)
 2. Navigate to 'My filters' tab.
 3. Paste this filters from [letsBlock.it](https://letsblock.it/filters/youtube-shorts):
 ```
@@ -35,6 +35,11 @@ youtube.com##ytd-rich-grid-row, #contents.ytd-rich-grid-row:style(display:conten
 5. Enjoy your Shorts-less YouTube feed. (:
 
 
-!!!info "Credits & More Filters"
+!!! Abstract "Credits & More Filters"
     This filters are not mine, I just found it on [letsBlock.it](https://letsblock.it/) and thought it would be useful to share it here.<br>
     More filters can be found on their website.
+
+
+??? info "Click me to view screenshots"
+    ![Dashboard](../../assets/images/ShortsRemoval/dashboard.png)
+    ![My Filters](../../assets/images/ShortsRemoval/my-filters.png)
