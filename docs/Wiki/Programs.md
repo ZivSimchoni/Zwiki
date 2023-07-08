@@ -75,6 +75,7 @@ title: Software & Programs
 -   [UBlock Origin](https://ublockorigin.com) - Free, open-source ad content blocker. _Optional add additional [**Hosts Lists**](./Links.md#hosts-lists)._
     -   [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin)
     -   [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
+    -   [LetsBlock.it](https://letsblock.it/filters) - Collaborative repository of uBlock content filters you can customize and sync across your browsers.
 -   [Multi Account Containers (Firefox)](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/) - Cookies are separated by container, allowing you to use the web with multiple identities or accounts simultaneously.
 -   EFF - [HTTPS Everywhere](https://www.eff.org/https-everywhere) - Force HTTPS (can be configured without addon too.)
     -   [Firefox](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere)
