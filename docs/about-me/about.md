@@ -7,7 +7,7 @@ title: About Me
 
 # :material-human-greeting-variant: Hi there!
 
-My name is Ziv. I'm a developer and student.
+My name is Ziv. I'm a developer.
 
 -   💬 Motto:
 
@@ -25,6 +25,7 @@ My name is Ziv. I'm a developer and student.
 -   🔭🥅 Following year goals:
 
     -   Contribute to open-source projects.
+    -   Keep updating my Wiki/Blog.
 
 -   ⚡ Some fun facts:
 
