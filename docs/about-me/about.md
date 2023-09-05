@@ -39,5 +39,3 @@ My name is Ziv. I'm a developer.
     Email: ZivSimchoni@gmail.com
 
     Feel free to ask me about everything.
-
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=ZivSimchoni&show_icons=true&theme=github_dark&count_private=true&hide_border=true&line_height=20)](https://github.com/ZivSimchoni/)
