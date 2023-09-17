@@ -61,7 +61,6 @@ Courses in many subjects (Including programming and mathematics)
 -   [Peter Lowe Hosts](https://pgl.yoyo.org/adservers/serverlist.php)
 -   [Someone Who Cares Hosts](https://someonewhocares.org/hosts)
 -   [Steven Black Hosts](https://github.com/StevenBlack/hosts) - Unified hosts file + Extensions to choose from.
--   ~~[Energized Protection Hosts](https://energized.pro) - Unified hosts file that prevents your system from connecting to adware sites.~~ Seems like its no longer maintained.
 -   [Hagezi DNS Blocklist](https://github.com/hagezi/dns-blocklists) - Unified hosts file that prevents your system from connecting to adware sites.
 
 ### VPN
