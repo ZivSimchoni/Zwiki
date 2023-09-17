@@ -29,6 +29,7 @@ title: Software & Programs
 
 ## Multimedia
 
+-   [Cider (Apple Music)](https://cider.sh/) - Cider is a new cross-platform Apple Music experience.
 -   [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) - Revolutionary tools for editing, visual effects, motion graphics, color correction and audio post production, all in a single application.
 -   [HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted drag-and-drop file conversion server that supports 59x file formats.
 -   [Nativefier](https://github.com/jiahaog/nativefier) - Make any web page a desktop application.
@@ -54,7 +55,7 @@ title: Software & Programs
 
 -   [Brave](https://brave.com) - Brave is a privacy-first web browser.
 -   [FireFox](https://www.mozilla.org/en-US/firefox/new/) - No shady privacy policies or back doors for advertisers. Just a lightning fast browser that doesn’t sell you out.
-    -   [FireFox user.js](https://github.com/arkenfox/user.js)
+    -   [arkenfox user.js](https://github.com/arkenfox/user.js) - configuration file that can control Firefox settings.
     -   [Firefox privacy tweaks](https://www.privacyguides.org/blog/2021/12/01/firefox-privacy-2021-update/)
 -   [Mullvad Browser](https://mullvad.net/en/browser/) - The Mullvad Browser is a privacy-focused web browser developed in a collaboration between Mullvad VPN and the Tor Project.
 -   [LibreWolf](https://librewolf-community.gitlab.io/install/) - A fork of Firefox, focused on privacy, security and freedom.
