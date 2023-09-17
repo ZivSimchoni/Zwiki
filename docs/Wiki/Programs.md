@@ -78,12 +78,13 @@ title: Software & Programs
     -   [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
     -   [LetsBlock.it](https://letsblock.it/filters) - Collaborative repository of uBlock content filters you can customize and sync across your browsers.
 -   [Multi Account Containers (Firefox)](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/) - Cookies are separated by container, allowing you to use the web with multiple identities or accounts simultaneously.
--   EFF - [HTTPS Everywhere](https://www.eff.org/https-everywhere) - Force HTTPS (can be configured without addon too.)
+-   EFF - ~~~[HTTPS Everywhere](https://www.eff.org/https-everywhere) -~~~ Force HTTPS can be configured without addon.
     -   [Firefox](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere)
     -   [Chrome](https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp)
 -   [No Script](https://noscript.net) - Protect yourself against XSS other web security exploits.
     -   [Firefox](https://addons.mozilla.org/en-US/firefox/addon/noscript)
     -   [Chrome](https://chrome.google.com/webstore/detail/noscript/doojmbjmlfjjnbmnoijecmcbfeoakpjm)
+-   [SponsorBlock](https://sponsor.ajay.app/) - SponsorBlock is an open-source browser extension for skipping sponsor segments in YouTube videos.
 
 ## Reading/Writing
 
@@ -138,6 +139,7 @@ title: Software & Programs
 
 -   [Open Broadcaster Software (OBS)](https://obsproject.com/) - Open Broadcaster Software is free and open source software for video recording and live streaming.
 -   [Streamlabs OBS](https://streamlabs.com/) - Forked version of OBS.
+-   [FreeTube](https://freetubeapp.io/#download) - FreeTube is an open source desktop YouTube player built with privacy in mind. (SponsorBlock included)
 
 ## System
 
