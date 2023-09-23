@@ -145,10 +145,10 @@ title: Software & Programs
 
 -   [Bleachbit](https://github.com/bleachbit/bleachbit) - Clean Your System and Free Disk Space. (CCleaner alternative).
 -   [Chocolatey](https://chocolatey.org/) - Package manager for Windows.
--   [FlowLauncher](https://www.flowlauncher.com/) - Customizable quick file search & app launcher for Windows with community-made plugins.
+-   [Everything](https://www.voidtools.com) - Locate files and folders by name instantly.
+-   [FlowLauncher](https://www.flowlauncher.com/) - Customizable quick file search & app launcher for Windows with community-made plugins. (best when paired with "Everything")
 -   [Ninite](https://ninite.com/) - Package manager for Windows. (Chocolatey alternative)
 -   [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) - CPU-Z is a freeware that gathers information on some of the main devices of your system.
--   [Everything](https://www.voidtools.com) - Locate files and folders by name instantly.
 -   [Fences](https://www.stardock.com/products/fences) - Automatically organize your desktop shortcuts and icons with Fences!
 -   [f.lux](https://justgetflux.com) - Is your computer keeping you up late? f.lux is a free download that warms up your computer display at night, to match your indoor lighting.
 -   [LightBulb](https://github.com/Tyrrrz/LightBulb) - LightBulb is an application that reduces eyestrain produced by staring at a computer screen when working late hours. (F.lux alternative)
