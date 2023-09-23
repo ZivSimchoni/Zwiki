@@ -91,6 +91,7 @@ Courses in many subjects (Including programming and mathematics)
 
 -   [Advanced Search Operators For Google](https://ahrefs.com/blog/google-advanced-search-operators)
 -   [Guide to Google Advanced Search Operators](https://www.searchenginejournal.com/google-search-operators-commands/215331)
+-   [FireFox Address bar search tips](https://wiki.tilde.institute/w/firefox-address-bar-tips) - Tips for searching from the address bar in Firefox.
 
 ## Privacy Related
 
