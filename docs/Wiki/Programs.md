@@ -145,6 +145,7 @@ title: Software & Programs
 
 -   [Bleachbit](https://github.com/bleachbit/bleachbit) - Clean Your System and Free Disk Space. (CCleaner alternative).
 -   [Chocolatey](https://chocolatey.org/) - Package manager for Windows.
+-   [FlowLauncher](https://www.flowlauncher.com/) - Customizable quick file search & app launcher for Windows with community-made plugins.
 -   [Ninite](https://ninite.com/) - Package manager for Windows. (Chocolatey alternative)
 -   [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) - CPU-Z is a freeware that gathers information on some of the main devices of your system.
 -   [Everything](https://www.voidtools.com) - Locate files and folders by name instantly.
