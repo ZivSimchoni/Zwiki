@@ -21,20 +21,19 @@ title: Programming
 -   [Ascii Table](https://www.asciitable.com) - If you want check [Wiki](https://en.wikipedia.org/wiki/ASCII).
 -   [Best Sites GitHub Repo](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - Some useful websites for programmers.
 -   [Big-O Cheat Sheet](https://www.bigocheatsheet.com) - Space and time Big-O complexities of common algorithms used in Computer Science.
--   [Curated Courses](https://curated-courses.herokuapp.com) - A curated list of courses in Computer Science, Physics, Economics and Math.
 -   [Coding Interview University](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 -   [Geeks For Geeks](https://www.geeksforgeeks.org) - Variety of services for you to learn, thrive and also have fun!
 -   [GlassDoor](https://www.glassdoor.com) - Glassdoor also allows users to anonymously submit and view salaries as well as search and apply for jobs on its platform.
 -   [Hack The Box](https://www.hackthebox.eu) - Offering everything that is required to take your training seriously and kickstart a career in cybersecurity..
 -   [Keyboard](https://www.keybr.com) - This web application will help you to learn touch typing, which means typing through muscle memory without using the sense of sight to find the keys on the keyboard.
 -   [Learn X in Y minutes](https://learnxinyminutes.com) - Community-driven site to take a whirlwind tour of your next favorite language.
--   [Mega Project List](https://github.com/karan/Projects/blob/master/README.md) - A list of practical projects that anyone can solve in any programming language. (Good for programing practices)
+-   [Mega Project List](https://github.com/karan/Projects/blob/master/README.md) - A list of practical projects that anyone can solve in any programming language. (Good for programming practices)
 -   [Public API](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development.
 -   [Pastebin](https://pastebin.com) - Store any text online for easy sharing. (Expiration time can be set to texts)
 -   [Regex101](https://regex101.com) - Learn regular expressions in a fun and interactive way.
 -   [Roadmap](https://roadmap.sh/) - Community effort to create roadmaps, guides and other educational content to help guide the developers in picking up the path and guide their learnings.
 -   [Stack Overflow](https://stackoverflow.com) - The most popular, community-based space to find and contribute answers to technical challenges.
--   [W3Schools](https://www.w3schools.com) - Learn programing languages.
+-   [W3Schools](https://www.w3schools.com) - Learn programming languages.
 
 ## Programming Languages
 
@@ -45,6 +44,9 @@ title: Programming
     -   [C++ Tutorial](https://youtu.be/GQp1zzTwrIg) - YouTube C++ 10h tutorial. (By CodeBeauty - 2021)
     -   [C++ ISO](https://isocpp.org) - The home of Standard C++ on the web.
 -   [Go](https://golang.org) - Go is an open source programming language that makes it easy to build simple, reliable, and efficient software.
+    -  [Go by Example](https://gobyexample.com) - Go by Example is a hands-on introduction to Go using annotated example programs.
+    -  [FreeCodeCamp YouTube Tutorial](https://www.youtube.com/watch?v=un6ZyFkqFKo) - Full introduction into all of the core concepts in Go.
+    -  [Boot.Dev/backend](https://www.boot.dev/learn/learn-golang) - A great Go course.
 -   [JavaScript](https://www.javascript.com) - JS One of the core languages for web development.
     -   [PlayCode.io](https://playcode.io/new) - JavaScript sandbox.
 -   [Kotlin](https://kotlinlang.org) - Kotlin is a cross-platform, statically typed, general-purpose programming language with type inference. Kotlin is designed to interoperate fully with Java.
@@ -60,6 +62,8 @@ title: Programming
     -   [Real Python](https://realpython.com) - Python Tutorials, guides and tricks.
     -   [Python Cheat Sheets](https://www.pythoncheatsheet.org) - A collection of Python code snippets and examples.
 -   [Ruby](https://www.ruby-lang.org/en) - A dynamic, open source programming language with a focus on simplicity and productivity.
+-   [Rust](https://www.rust-lang.org) - Rust is a multi-paradigm programming language focused on performance and safety, especially safe concurrency.
+    -   [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example) - Rust by Example (RBE) is a collection of runnable examples that illustrate various Rust concepts and standard libraries.
 
 ## JSON
 
