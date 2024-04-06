@@ -31,7 +31,9 @@ title: Software & Programs
 
 -   [Cider (Apple Music)](https://cider.sh/) - Cider is a new cross-platform Apple Music experience.
 -   [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) - Revolutionary tools for editing, visual effects, motion graphics, color correction and audio post production, all in a single application.
+-   [foobar2000](https://www.foobar2000.org/) - foobar2000 is an advanced minimal ui audio player for the Windows platform, supports plugins.
 -   [HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted drag-and-drop file conversion server that supports 59x file formats.
+-   [MusicBee](https://getmusicbee.com/) - MusicBee makes it easy to manage, find, and play music files on your computer. MusicBee also supports podcasts, web radio stations and plugins.
 -   [Nativefier](https://github.com/jiahaog/nativefier) - Make any web page a desktop application.
 -   [VLC](https://www.videolan.org/vlc/) - VLC is a free and open source cross-platform multimedia player.
 
