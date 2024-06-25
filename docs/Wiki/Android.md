@@ -118,6 +118,10 @@ title: Android Apps
 -   [NewPipe](https://newpipe.net) - Free and open source YouTube client for Android.
 -   [Tubular](https://github.com/polymorphicshade/Tubular) - AKA NewPipe X SponsorBlock - Same as NewPipe with SponsorBlock integrated.
 
+### Podcasts
+
+-   [AntennaPod](https://antennapod.org/download/) - AnthenaPod is open-source and you can subscribe to any RSS feed, it respects your privacy while giving you full control and supports offline listening.
+
 ## Passwords And Security
 
 ### Passwords Managers
