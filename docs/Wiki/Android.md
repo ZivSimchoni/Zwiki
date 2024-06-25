@@ -116,6 +116,7 @@ title: Android Apps
 -   ~~[YouTube Vanced](https://vancedapp.com)~~ [ReVanced](https://github.com/revanced) - Ad-Free YouTube & YT Music. [Telegram](https://t.me/app_revanced), [Discord](https://discord.com/invite/rF2YcEjcrT)
     -   [RVX Lite - Telegram](https://t.me/rvx_lite)
 -   [NewPipe](https://newpipe.net) - Free and open source YouTube client for Android.
+-   [Tubular](https://github.com/polymorphicshade/Tubular) - AKA NewPipe X SponsorBlock - Same as NewPipe with SponsorBlock integrated.
 
 ## Passwords And Security
 
