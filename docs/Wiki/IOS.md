@@ -43,7 +43,7 @@ title: IOS
 -   [Microsoft Whiteboard](https://apps.apple.com/app/microsoft-whiteboard/id1352499399) - Flexible canvas for notes, sketches, diagrams, and more, shareable with anyone.
 -   [Notability](https://apps.apple.com/app/notability/id360593530) - Powerful, yet wonderfully simple note-taking and PDF annotation.
 -   [Notes Writer](https://apps.apple.com/app/notes-writer-pdf-words-epub/id1423643723) - Notes Writer is a comprehensive note-taking app & PDF annotator.
--   [Obsidian Notes](https://apps.apple.com/app/obsidian-connected-notes/id1557175442) - Obsidian is a powerful knowledge base on top of a local folder of plain text Markdown files.
+-   [Obsidian](https://apps.apple.com/app/obsidian-connected-notes/id1557175442) - Obsidian is a powerful knowledge base on top of a local folder of plain text Markdown files.
 -   [Standard Notes](https://apps.apple.com/app/standard-notes/id1285392450) - Standard Notes is a safe place for your notes, thoughts, and life's work.
 
 ### To-Do Lists & Task Managers
@@ -97,6 +97,7 @@ title: IOS
 -   [AnimeNow](https://github.com/AnimeNow-Team/AnimeNow) - AnimeNow is a free, open-source, and ad-free anime streaming app. _require sideloading such as AltStore_
 -   [NineAnimator](https://nineanimator.marcuszhou.com/) - a free and open source anime watching app for iOS and macOS. _require sideloading such as AltStore_
 -   [Soshiki](https://github.com/soshikimoe/soshiki-ios) - An open-source media browser and viewer for iOS 15+. (supports text, image and video).
+-   [PaperBack](https://apps.apple.com/app/paperback-a-komga-client/id1626613373) - An Ad-Free Komga client for iOS. Supports an extensive scripting API using TypeScript/JavaScript to extend the app functionality.
 
 ### Music and Videos
 
@@ -115,8 +116,10 @@ title: IOS
 
 ### 2FA and TOTP
 
--   [Raivo OTP](https://apps.apple.com/app/raivo-otp/id1459042137) - A native, lightweight and secure OTP solution for users.
+-   ~~[Raivo OTP](https://apps.apple.com/app/raivo-otp/id1459042137) - A native, lightweight and secure OTP solution for users.~~ Would *NOT* recommend anymore after some company purchased the app.
 -   [Tofu Authenticator](https://apps.apple.com/app/tofu-authenticator/id1082229305) - An easy-to-use, open-source two-factor authentication app designed specifically for iOS.
+-   [2FAS Auth](https://apps.apple.com/app/2fa-authenticator-2fas/id1217793794)
+-   [BitWarden Authenticator](https://apps.apple.com/app/bitwarden-authenticator/id6497335175) - BitWarden's 2FA codes app.
 
 ### Passwords Managers
 
