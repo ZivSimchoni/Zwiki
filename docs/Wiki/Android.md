@@ -109,6 +109,7 @@ title: Android Apps
 
 -   [PowerAMP](https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer) - Music player for Android.
 -   [ViMusic](https://github.com/vfsfitvnm/ViMusic) - Seamlessly stream music from YouTube Music, with beautiful UI.
+    - [ViTune](https://github.com/vaginessa/ViTune) - ViMusic Fork with additional features.
 -   [VLC](https://www.videolan.org/vlc/download-android.html) - FOSS cross-platform multimedia player and framework that plays most multimedia files.
 
 ### Online Streaming
