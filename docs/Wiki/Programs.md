@@ -40,6 +40,7 @@ title: Software & Programs
 ## Networks
 
 -   [Deluge](https://deluge-torrent.org/) - Deluge is a lightweight, Free Software, cross-platform BitTorrent client.
+- [LocalSend](https://localsend.org/download) - Share files to nearby devices. FOSS, cross-platform. (Like AirDrop)
 -   [Onionshare](https://github.com/micahflee/onionshare) - Securely and anonymously send and receive files, and publish onion sites.
 -   [Perkeep](https://perkeep.org/) - Perkeep lets you permanently keep your stuff, for life.
 -   [PuTTY](https://putty.org/) - a free SSH and Telnet client.

@@ -35,6 +35,10 @@ title: Android Apps
 -   [SD Maid](https://sdmaid.darken.eu) - It helps you manage files and apps. It works with any Android device and any storage that is accessible.
 -   [SD Maid 2/SE](https://play.google.com/store/apps/details?id=eu.darken.sdmse) - SD Maid SE is the successor to SD Maid. A complete rewrite, optimized for newer Android versions, with a focus on SD Maid's most popular features. _WIP_ [GitHub](https://github.com/d4rken-org/sdmaid-se)
 
+### File Sync
+-   [Syncthing](https://syncthing.net/downloads/) - Syncthing is a continuous file synchronization program. It synchronizes files between two or more computers in real time, safely protected from prying eyes.
+- [LocalSend](https://play.google.com/store/apps/details?id=org.localsend.localsend_app) - Share files to nearby devices. FOSS, cross-platform. (Like AirDrop) [F-Doid link](https://f-droid.org/packages/org.localsend.localsend_app/)
+
 ### Launchers
 
 -   [Lawnchair launcher](https://lawnchair.app) - Based on Launcher3 from AOSP, Lawnchair has all the features of the Pixel Launcher.

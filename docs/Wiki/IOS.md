@@ -21,7 +21,7 @@ title: IOS
 
 ### Social Media
 
--   ~~[Apollo](https://apps.apple.com/app/apollo-for-reddit/id979274575) - Unofficial Reddit client, created specifically with iOS design guidelines in mind, beautiful and powerful.~~ [Apollo will close ](https://www.reddit.com/r/apolloapp/comments/144f6xm/apollo_will_close_down_on_june_30th_reddits/) :material-emoticon-sad:
+-   ~~[Apollo](https://apps.apple.com/app/apollo-for-reddit/id979274575) - Unofficial Reddit client, created specifically with iOS design guidelines in mind, beautiful and powerful.~~ [Apollo has been shutdown](https://www.reddit.com/r/apolloapp/comments/144f6xm/apollo_will_close_down_on_june_30th_reddits/) :material-emoticon-sad:
 -   [Slide](https://apps.apple.com/app/slide-for-reddit/id1260626828) - Unofficial Open Sourced Reddit client, clean UI and smooth experience.
 
 ## Files & System
@@ -34,6 +34,7 @@ title: IOS
 
 -   [Möbius Sync](https://apps.apple.com/app/mobiussync/id1539203216) - Möbius Sync brings Syncthing to iOS, allowing you to synchronize files with Syncthing, without the need for any cloud service.
 -   [Resilio Sync](https://apps.apple.com/app/id1126282325) - Sync is the a way to transfer files between your Mac, PC, NAS, and even server.
+- [LocalSend](https://apps.apple.com/app/localsend/id1661733229) - Share files to nearby devices. FOSS, cross-platform. (Like AirDrop)
 
 ### Notes
 
