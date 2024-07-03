@@ -15,8 +15,8 @@ My name is Ziv. I'm a developer.
 
 -   🌱 Currently learning:
 
-    -   Go.
-    -   Python.
+    -   DevOps tools (e.g. Docker).
+    -   Product managment.
 
 -   🔍 Specifically interested in:
 
