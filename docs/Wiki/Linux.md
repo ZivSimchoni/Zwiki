@@ -36,7 +36,6 @@ title: Linux
 
 # Useful Links
 
--   [Distro Test](https://distrotest.net/index.php) - Test a new operating system online.
 -   [Distro Watch](https://distrowatch.com/) - A comprehensive list of Linux distros and their current status.
 -   [ItsFOSS](https://itsfoss.com/) - Lots of FOSS and linux related stuff.
 -   [Linux Journey](https://linuxjourney.com/) - Linux Journey is a site dedicated to making learning Linux fun and easy.
