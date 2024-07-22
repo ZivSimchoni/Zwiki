@@ -82,6 +82,7 @@ title: Programming
     -   [GitHub Desktop](https://desktop.github.com) - Whether you're new to Git or a seasoned user, GitHub Desktop simplifies your
         development workflow.
     -   [GitKraken](https://www.gitkraken.com/) - GitKraken is a cross-platform Git client with a beautiful UI, blazing fast performance, and an integrated Git Graph.
+    -   [Sublime Merge](https://www.sublimemerge.com/) - Git Client by sublime. Line-by-line Staging. Commit Editing. Unmatched Performance.
 -   [IntelliJ IDEA](https://www.jetbrains.com/idea/download/) - Very popular IDE for various programming languages.
 -   [MySQL](https://www.mysql.com) - MySQL is an open-source relational database management system.
 -   [npm](https://www.npmjs.com) - Node Package Manager
