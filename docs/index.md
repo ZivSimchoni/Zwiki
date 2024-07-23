@@ -67,7 +67,7 @@ title: Home
 
 <h6>Content page layout<br> Navigation | Content | TOC </h6>
 
-> _This is a list of guides and sources that I've collected/created.<br>
+> _This is a compilation of guides, sources, and blog posts that I have collected and created.<br>
 > I'm not a professional - just a man who likes to learn and share knowledge.<br>
 > Please read the [disclaimer](./about-me/Wiki-ETC/disclaimer.md).<br>
 > There are probably some errors or typos and If you have any suggestions, please let me know! - [Contribution Guidelines](./about-me/Wiki-ETC/contributions.md)_
