@@ -37,6 +37,7 @@ title: Android Apps
 
 ### File Sync
 -   [Syncthing](https://syncthing.net/downloads/) - Syncthing is a continuous file synchronization program. It synchronizes files between two or more computers in real time, safely protected from prying eyes.
+Due to [Discontinuing syncthing-android](https://forum.syncthing.net/t/discontinuing-syncthing-android/23002/1), consider using [a fork](https://github.com/Catfriend1/syncthing-android).
 - [LocalSend](https://play.google.com/store/apps/details?id=org.localsend.localsend_app) - Share files to nearby devices. FOSS, cross-platform. (Like AirDrop) [F-Doid link](https://f-droid.org/packages/org.localsend.localsend_app/)
 
 ### Launchers
