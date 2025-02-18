@@ -17,7 +17,7 @@ title: Android Apps
 
 -   [Element](https://element.io/get-started#download) - Secure and independent communication, connected via [matrix](https://matrix.org/).
 -   [Signal](https://www.signal.org/download) - Privacy oriented messaging app. 
-    - Consider using Signal's Fork [Molly](https://molly.im/) - A hardened version of Signal.
+    - Consider using Signal's hardened fork - [Molly](https://molly.im/).
 -   [Telegram](https://telegram.org) - Cross platform messaging software.
 -   [Telegram FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) - This is an unofficial, FOSS-friendly fork of the original Telegram App.
 -   [WhatsApp](https://www.whatsapp.com/download/) - Cross platform messaging software.
