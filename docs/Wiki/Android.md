@@ -11,20 +11,20 @@ title: Android Apps
 ### E-mail Clients
 
 -   [FairMail](https://email.faircode.eu) - Fully featured, open source, privacy oriented email app.
--   [K-9 Mail](https://k9mail.app/download) - Open source, focused on making it easy to chew through large volumes of email. (AKA ThunderBird)
+-   [K-9 Mail](https://k9mail.app/download) - Open source, focused on making it easy to chew through large volumes of email. (AKA Thunderbird for Android)
 
 ### Real-Time Communication
 
 -   [Element](https://element.io/get-started#download) - Secure and independent communication, connected via [matrix](https://matrix.org/).
--   [Signal](https://www.signal.org/download) - Privacy oriented messaging app.
+-   [Signal](https://www.signal.org/download) - Privacy oriented messaging app. 
+    - Consider using Signal's Fork [Molly](https://molly.im/) - A hardened version of Signal.
 -   [Telegram](https://telegram.org) - Cross platform messaging software.
 -   [Telegram FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) - This is an unofficial, FOSS-friendly fork of the original Telegram App.
 -   [WhatsApp](https://www.whatsapp.com/download/) - Cross platform messaging software.
 
 ### Reddit Clients
 
--   [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) - Unofficial Reddit client, without ads, clean UI and smooth experience.
--   [Slide for Reddit](https://play.google.com/store/apps/details?id=me.ccrama.redditslide) - Unofficial Open Sourced Reddit client, clean UI and smooth experience.
+-   [Stealth for Reddit](https://f-droid.org/packages/com.cosmos.unreddit/) -  Stealth is an account-free, privacy-oriented, and feature-rich Reddit client.
 
 ## Files & System
 
