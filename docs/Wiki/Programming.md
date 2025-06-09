@@ -85,6 +85,7 @@ title: Programming
     -   [GitKraken](https://www.gitkraken.com/) - GitKraken is a cross-platform Git client with a beautiful UI, blazing fast performance, and an integrated Git Graph.
     -   [Sublime Merge](https://www.sublimemerge.com/) - Git Client by sublime. Line-by-line Staging. Commit Editing. Unmatched Performance.
 -   [IntelliJ IDEA](https://www.jetbrains.com/idea/download/) - Very popular IDE for various programming languages.
+-   [MobaXterm](https://mobaxterm.mobatek.net/download.html) - Enhanced terminal for Windows with X11 server, tabbed SSH client, network tools and much more.
 -   [MySQL](https://www.mysql.com) - MySQL is an open-source relational database management system.
 -   [npm](https://www.npmjs.com) - Node Package Manager
 -   [Node.js](https://nodejs.org) - Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.
