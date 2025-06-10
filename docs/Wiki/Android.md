@@ -33,7 +33,7 @@ title: Android Apps
 -   [MiXplorer](https://mixplorer.com) - Fast, smooth, beautiful, reliable and full-featured file manager with a simple and intuitive user interface. [XDA](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/#post-23109280), & [Play Store](https://play.google.com/store/apps/details?id=com.mixplorer.silver) IMHO: Hands down, one of the bests file explorer.
 -   [Solid Explorer](https://play.google.com/store/apps/details?id=pl.solidexplorer2) - Solid Explorer is a file management app inspired by the old school file commander applications.
 -   [SD Maid](https://sdmaid.darken.eu) - It helps you manage files and apps. It works with any Android device and any storage that is accessible.
--   [SD Maid 2/SE](https://play.google.com/store/apps/details?id=eu.darken.sdmse) - SD Maid SE is the successor to SD Maid. A complete rewrite, optimized for newer Android versions, with a focus on SD Maid's most popular features. _WIP_ [GitHub](https://github.com/d4rken-org/sdmaid-se)
+-   [SD Maid 2/SE](https://play.google.com/store/apps/details?id=eu.darken.sdmse) - SD Maid SE is the successor to SD Maid. A complete rewrite, optimized for newer Android versions, with a focus on SD Maid's most popular features. [GitHub](https://github.com/d4rken-org/sdmaid-se)
 
 ### File Sync
 -   [Syncthing](https://syncthing.net/downloads/) - Syncthing is a continuous file synchronization program. It synchronizes files between two or more computers in real time, safely protected from prying eyes.
