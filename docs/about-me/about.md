@@ -7,7 +7,7 @@ title: About Me
 
 # :material-human-greeting-variant: Hi there!
 
-My name is Ziv. I'm a developer.
+My name is Ziv. I'm a developer and Junior PM.
 
 -   💬 Motto:
 
@@ -15,8 +15,8 @@ My name is Ziv. I'm a developer.
 
 -   🌱 Currently learning:
 
-    -   DevOps tools (e.g. Docker).
-    -   Product managment.
+    -   Product Management.
+    -   DevOps tools.
 
 -   🔍 Specifically interested in:
 
@@ -27,16 +27,17 @@ My name is Ziv. I'm a developer.
 
     -   Contribute to open-source projects.
     -   Keep updating my Wiki/Blog.
+    -   Become a better PM.
 
 -   ⚡ Some fun facts:
 
     -   Curious but pragmatic 🦝.
     -   I enjoy listening to music.
     -   I like to flash Android ROMs & mods.
-    -   When not programming, I usually play video games or read books.
 
 -   📫 How to reach me:
 
     Email: ZivSimchoni@gmail.com
 
     Feel free to ask me about everything.
+    
