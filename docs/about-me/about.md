@@ -7,7 +7,7 @@ title: About Me
 
 # :material-human-greeting-variant: Hi there!
 
-My name is Ziv. I'm a developer and Junior PM.
+My name is Ziv. I'm a developer and a Junior PM.
 
 -   💬 Motto:
 
