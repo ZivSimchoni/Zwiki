@@ -6,7 +6,7 @@ hide:
 title: Home
 ---
 
-<center><h1>:material-button-cursor: Here are quick navigation buttons for your convince.</h1></center>
+<center><h1>:material-cursor-pointer: Here are quick navigation buttons for your convince.</h1></center>
 
 <style>
 .containerindex { 
