@@ -85,7 +85,8 @@ Due to [Discontinuing syncthing-android](https://forum.syncthing.net/t/discontin
 !!! info "Check this [PrivacyTests Chart](https://privacytests.org/android.html) for indepth comparison of browsers."
 
 -   [Brave](https://brave.com/) - Chromium fork with ad blocking enhancements.
--   [Bromite](https://www.bromite.org) - Chromium fork with ad blocking and privacy enhancements; take back your browser!
+-   ~~[Bromite](https://www.bromite.org)~~ - Chromium fork with ad blocking and privacy enhancements (Probably Deprecated).
+-   [Cromite](https://github.com/uazo/cromite) - Bromite fork with privacy enhancements.
 -   [Fenecc Fox](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid) - Firefox with proprietary bits and telemetry removed, but still connects to
     various Mozilla and Google services that can track users.
 -   [Firefox](https://play.google.com/store/apps/details?id=org.mozilla.firefox) - Mozilla's official release of Firefox.
@@ -103,6 +104,7 @@ Due to [Discontinuing syncthing-android](https://forum.syncthing.net/t/discontin
 
 -   [Aniyomi](https://aniyomi.org/) - Unofficial fork of Tachiyomi for anime.
 -   [Tachiyomi](https://tachiyomi.org/) - Free and open source manga reader for Android.
+    -   [Mihon](https://mihon.app/) - Free and open source manga reader (Tachiyomi successor).
 -   [Saikou](https://github.com/saikou-app/saikou) - Saikou is crafted based on simplistic yet state-of-the-art elegance. It is an Anilist only client. Supports Steam/Download Anime & Manga.
 
 ### Photos
@@ -120,7 +122,8 @@ Due to [Discontinuing syncthing-android](https://forum.syncthing.net/t/discontin
 ### Online Streaming
 
 -   ~~[YouTube Vanced](https://vancedapp.com)~~ [ReVanced](https://github.com/revanced) - Ad-Free YouTube & YT Music. [Telegram](https://t.me/app_revanced), [Discord](https://discord.com/invite/rF2YcEjcrT)
-    -   [RVX Lite - Telegram](https://t.me/rvx_lite)
+    -   ~~[RVX Lite - Telegram](https://t.me/rvx_lite)~~ (Discontinued or On-Hold)
+-   [Morphe](https://morphe.software/) - ReVanced alternative - used to patch apps FOSS.
 -   [NewPipe](https://newpipe.net) - Free and open source YouTube client for Android.
 -   [Tubular](https://github.com/polymorphicshade/Tubular) - AKA NewPipe X SponsorBlock - Same as NewPipe with SponsorBlock integrated.
 
@@ -141,6 +144,10 @@ Due to [Discontinuing syncthing-android](https://forum.syncthing.net/t/discontin
 -   [andOTP](https://github.com/andOTP/andOTP) - Open source two-factor authentication.
 -   [Authenticator Pro](https://github.com/jamie-mh/AuthenticatorPro) - Free and open source 2FA app with support for Wear OS.
 
+### Privacy & Security Tools
+
+-   [URLCheck](https://github.com/TrianguloY/URLCheck) - Intercepts clicked links to analyze them before opening in browser. Can clean URLs, skip redirects, and supports customizable filter lists.
+
 ## ETC.
 
 ### Keyboards
@@ -156,6 +163,18 @@ Due to [Discontinuing syncthing-android](https://forum.syncthing.net/t/discontin
 -   [Island](https://play.google.com/store/apps/details?id=com.oasisfeng.island) - Sandbox environment to clone selected apps and isolate them from accessing your personal data outside the sandbox.
 -   [Insular](https://gitlab.com/secure-system/Insular) - Fork of Island with removed proprietary Google Play libraries.
 -   [Scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device On your computer.
+
+#### Shizuku Apps
+
+*Shizuku allows apps to use system-level APIs directly with ADB privileges without requiring root access, keeping your device secure while granting advanced control.*
+
+-   [Shizuku](https://shizuku.rikka.app/) - Core service granting ADB privileges to other apps.
+-   [Canta](https://github.com/samolego/Canta) - App uninstaller using Shizuku.
+-   [App Ops](https://appops.rikka.app/) - Advanced permission manager.
+-   [aShell you](https://github.com/sunilpaulmathew/aShell) - Local ADB shell.
+-   [Hail](https://github.com/aistra0528/Hail) - App freezer/hider.
+-   [LogFox](https://github.com/F0x1d/LogFox) - Logcat reader.
+-   [InstallX Revived](https://github.com/wxxsfxyzm/InstallerX-Revived) - Advanced package installer utilizing Shizuku.
 
 <!-- TODO: ADD Tasker Profiles (?)    -->
 
