@@ -81,6 +81,7 @@ title: IOS
 !!! info "Check this [PrivacyTests Chart](https://privacytests.org/ios.html) for indepth comparison of browsers."
 
 -   [Brave](https://apps.apple.com/app/brave-private-web-browser/id1052879175) - Chromium fork with ad blocking enhancements.
+-   [Orion](https://orionbrowser.com/) - Safari (WebKit) based browser that supports Firefox and Chrome extensions.
 -   [DuckDuckGo](https://apps.apple.com/app/duckduckgo-privacy-browser/id663592361) - Privacy-oriented browser with tracking protection and content blocking.
 -   [Firefox](https://apps.apple.com/app/firefox-private-safe-browser/id989804926) - Free and open-source web browser developed by Mozilla.
 -   [Firefox Focus](https://apps.apple.com/app/firefox-focus-privacy-browser/id1055677337) - Privacy-oriented browser with tracking protection and content blocking.
