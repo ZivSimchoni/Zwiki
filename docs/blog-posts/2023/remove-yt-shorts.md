@@ -8,7 +8,7 @@ Prerequisite:<br>uBlock Origin extension installed on your browser.
 
 1. Open uBlock Origin dashboard. (You might need to click on "more" button to see it)
 2. Navigate to 'My filters' tab.
-3. Paste this filters from [letsBlock.it](https://letsblock.it/filters/youtube-shorts):
+3. Paste this filters from ~~[letsBlock.it](https://letsblock.it/filters/youtube-shorts)~~ (Project Discontinued/EOL):
 ```
 ! YouTube Short Remover
 www.youtube.com##ytd-guide-renderer a.yt-simple-endpoint path[d^="M10 14.65v-5.3L15 12l-5 2.65zm7.77-4.33"]:upward(ytd-guide-entry-renderer)
@@ -36,8 +36,8 @@ youtube.com##ytd-rich-grid-row, #contents.ytd-rich-grid-row:style(display:conten
 
 
 !!! Abstract "Credits & More Filters"
-    This filters are not mine, I just found it on [letsBlock.it](https://letsblock.it/) and thought it would be useful to share it here.<br>
-    More filters can be found on their website.
+    This filters are not mine, I just found it on ~~[letsBlock.it](https://letsblock.it/)~~ (Project Discontinued/EOL) and thought it would be useful to share it here.<br>
+    ~~More filters can be found on their website.~~ This project is discontinued/EOL.
 
 
 ??? info "Click me to view screenshots"
