@@ -36,10 +36,16 @@ title: Software & Programs
 -   [MusicBee](https://getmusicbee.com/) - MusicBee makes it easy to manage, find, and play music files on your computer. MusicBee also supports podcasts, web radio stations and plugins.
 -   [Nativefier](https://github.com/jiahaog/nativefier) - Make any web page a desktop application.
 -   [VLC](https://www.videolan.org/vlc/) - VLC is a free and open source cross-platform multimedia player.
+-   [Stremio](https://www.stremio.com/) - Modern media center.
+-   [HandBrake](https://handbrake.fr/) - Open-source video transcoder, wide formats support.
+-   [Audacity](https://www.audacityteam.org/) - Free, open source, cross-platform audio software.
+-   [mp3tag](https://www.mp3tag.de/en/) - Powerful and easy-to-use tool to edit metadata of audio files.
 
 ## Networks
 
 -   [Deluge](https://deluge-torrent.org/) - Deluge is a lightweight, Free Software, cross-platform BitTorrent client.
+-   [HTTP Downloader](https://erickutcher.github.io/) - High-performance download manager.
+-   [Nicotine+](https://nicotine-plus.org/) - Graphical client for the Soulseek peer-to-peer network.
 - [LocalSend](https://localsend.org/download) - Share files to nearby devices. FOSS, cross-platform. (Like AirDrop)
 -   [Onionshare](https://github.com/micahflee/onionshare) - Securely and anonymously send and receive files, and publish onion sites.
 -   [Perkeep](https://perkeep.org/) - Perkeep lets you permanently keep your stuff, for life.
@@ -111,6 +117,7 @@ title: Software & Programs
 -   [WikidPad](https://github.com/WikidPad/WikidPad) - WikidPad is a single user desktop wiki.
 -   [WriteFreely](https://github.com/writeas/writefreely) - WriteFreely is a beautifully pared-down blogging platform that's simple on the surface, yet powerful underneath.
 -   [WriteMonkey](http://writemonkey.com/) - Software for full screen distraction free creative writing.
+-   [SumatraPDF](https://www.sumatrapdfreader.org) - Lightweight, minimalist PDF reader.
 
 ## Security
 
@@ -150,7 +157,8 @@ title: Software & Programs
 -   [Bleachbit](https://github.com/bleachbit/bleachbit) - Clean Your System and Free Disk Space. (CCleaner alternative).
 -   [Chocolatey](https://chocolatey.org/) - Package manager for Windows.
 -   [Everything](https://www.voidtools.com) - Locate files and folders by name instantly.
--   [FlowLauncher](https://www.flowlauncher.com/) - Customizable quick file search & app launcher for Windows with community-made plugins. (best when paired with "Everything")
+-   [FlowLauncher](https://www.flowlauncher.com/) - Customizable quick file search & app launcher for Windows with community-made plugins. (Best when paired with "Everything")
+-   [RayCast](https://www.raycast.com/) - Extendable launcher (Mac equivalent, beta/concept on PC).
 -   [Ninite](https://ninite.com/) - Package manager for Windows. (Chocolatey alternative)
 -   [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) - CPU-Z is a freeware that gathers information on some of the main devices of your system.
 -   [Fences](https://www.stardock.com/products/fences) - Automatically organize your desktop shortcuts and icons with Fences!
@@ -165,6 +173,8 @@ title: Software & Programs
 -   [Speccy](https://www.ccleaner.com/speccy) - Need to find out what’s inside your computer? Speccy has all the information you need!
 -   [Taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - NTaskwarrior is a GTD, todo list, task management, command line utility with a multitude of features.
 -   [TeraCopy](https://www.codesector.com/teracopy) - Official site of TeraCopy, a free utility designed to copy files faster and more secure. It can verify copied files to ensure they are identical.
+-   [BCUninstaller](https://www.bcuninstaller.com/) - Bulk Crap Uninstaller to remove software cleanly.
+-   [OneCommander](https://onecommander.com/) - Advanced file manager.
 
 ## ETC.
 
