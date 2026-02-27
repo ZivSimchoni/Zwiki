@@ -89,7 +89,7 @@ Unless explicitly stated otherwise, the Company is not affiliated with, sponsore
 
 # Accessibility Disclaimer
 
-The Company makes no guarantees or claims regarding the accessibility of the Service or the third-party websites and applications linked within. The Service does not provide any specific accessibility solutions, adaptations, or compliance with any accessibility standards (such as WCAG or ADA).
+The Company makes no guarantees or claims regarding the accessibility of the Service or the third-party websites and applications linked within. The Service does not provide any specific accessibility solutions, adaptations, or compliance with any accessibility standards.
 
 # Licensing and Ownership Disclaimer
 
