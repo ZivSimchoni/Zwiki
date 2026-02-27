@@ -81,6 +81,20 @@ All information in the Service is provided "as is", with no guarantee of complet
 
 The Company will not be liable to You or anyone else for any decision made or action taken in reliance on the information given by the Service or for any consequential, special or similar damages, even if advised of the possibility of such damages.
 
+**Hardware Modification and Data Loss:** The Company provides information and links to system-level applications, modifications, and software that require advanced permissions (e.g., ADB, Root access, Registry editing). Using these tools carries inherent risks, including but not limited to, permanent device damage ("bricking"), boot loops, and total data loss. The Company is not responsible for any damage to your hardware, software, or loss of personal data resulting from the use of, or inability to use, these recommended tools and modifications.
+
+# Affiliate Links Disclaimer
+
+Unless explicitly stated otherwise, the Company is not affiliated with, sponsored by, or endorsed by any of the developers, software, or services linked within the Service. All recommendations are made solely on the basis of personal preference. The Company receives no financial compensation for linking to the products within this repository.
+
+# Accessibility Disclaimer
+
+The Company makes no guarantees or claims regarding the accessibility of the Service or the third-party websites and applications linked within. The Service does not provide any specific accessibility solutions, adaptations, or compliance with any accessibility standards (such as WCAG or ADA).
+
+# Licensing and Ownership Disclaimer
+
+The Company does not own, register, or claim any copyright, license, or intellectual property rights over any of the software, applications, or external repositories mentioned within the Service. Every product, script, or software discussed or linked must be evaluated based on its own specific license and terms of usage as determined by its original creators or maintainers.
+
 # Contact Us :fontawesome-solid-envelope:
 
 If you have any questions about this Disclaimer, You can contact Us:
