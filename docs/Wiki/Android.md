@@ -84,8 +84,8 @@ Due to [Discontinuing syncthing-android](https://forum.syncthing.net/t/discontin
 
 !!! info "Check this [PrivacyTests Chart](https://privacytests.org/android.html) for indepth comparison of browsers."
 
--   [Brave](https://brave.com/) - Chromium fork with ad blocking enhancements.
--   ~~[Bromite](https://www.bromite.org)~~ - Chromium fork with ad blocking and privacy enhancements (Probably Deprecated).
+-   [Brave](https://brave.com/) - Privacy-focused web browser with built-in ad blocking and tracking protection.
+-   ~~[Bromite](https://www.bromite.org)~~ - Chromium fork with ad blocking and privacy enhancements (Probably Deprecated use Cromite).
 -   [Cromite](https://github.com/uazo/cromite) - Bromite fork with privacy enhancements.
 -   [Fenecc Fox](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid) - Firefox with proprietary bits and telemetry removed, but still connects to
     various Mozilla and Google services that can track users.
