@@ -7,7 +7,7 @@ title: About Me
 
 # :material-human-greeting-variant: Hi there!
 
-My name is Ziv. I'm a developer and a Junior PM.
+My name is Ziv. I'm a Junior PM.
 
 -   💬 Motto:
 
@@ -33,11 +33,4 @@ My name is Ziv. I'm a developer and a Junior PM.
 
     -   Curious but pragmatic 🦝.
     -   I enjoy listening to music.
-    -   I like to flash Android ROMs & mods.
-
--   📫 How to reach me:
-
-    Email: ZivSimchoni@gmail.com
-
-    Feel free to ask me about everything.
-    
+    -   I like Android modding. (~~and flashing Android ROMs~~)
