@@ -19,3 +19,6 @@
 *[WIP]: Work In Progress
 *[OTA]: Over The Air
 *[ADB]: Android Debug Bridge
+*[e.g.]: (Latin) exempli gratia (for example)
+*[i.e.]: (Latin) id est (that is) or (in other words)
+*[etc.]: (Latin) et cetera (and so on)
