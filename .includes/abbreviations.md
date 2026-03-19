@@ -17,3 +17,5 @@
 *[TOTP]: Time-based One Time Password
 *[VPN]: Virtual Private Network
 *[WIP]: Work In Progress
+*[OTA]: Over The Air
+*[ADB]: Android Debug Bridge
