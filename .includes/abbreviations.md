@@ -7,6 +7,7 @@
 *[FOSS]: Free and Open Source Software
 *[GDP]: Gross Domestic Product
 *[IMHO]: In My Humble/Honest Opinion
+*[IMO]: In My Opinion
 *[MFA]: Multi Factor Authentication
 *[ML]: Machine Learning
 *[MVP]: Minimum Viable Product
